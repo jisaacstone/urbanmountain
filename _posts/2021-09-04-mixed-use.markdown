@@ -1,0 +1,131 @@
+---
+layout: post
+title:  "Mixed Use, Parking, Walkability and Development"
+date:   2021-08-25 13:20:13 -0700
+categories: walkability, parking
+---
+
+In this rambling post I will examine three areas of Mountain View that have "mixed use".
+
+I will compare the San Antonio Center (opened 2013) with the proposed North Bayshore Gateway and downtown Mountain View (around Castro St)
+
+I will make the argument that mixed-use is not a pancea, and building a better city requires all development to change from the existing car-first patterns.
+
+Relevant links:
+
+[North Bayshore Gateway master plan](https://mountainview.legistar.com/View.ashx?M=F&ID=9714852&GUID=83F446E7-0594-4FB2-A582-FD52C5DFD528)
+
+[North Bayshore precise plan](https://www.mountainview.gov/depts/comdev/planning/activeprojects/northbayshore_.asp)
+
+[San Antonio Center planning submittal 3](http://laserfiche.mountainview.gov/WebLink/DocView.aspx?id=233816&dbid=0&repo=CityDocuments)
+
+[San Antonio precise plan](https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=29703)
+
+[Downtown precise plan](https://www.mountainview.gov/depts/comdev/planning/activeprojects/downtownupdate.asp)
+
+## The Promenade Is A Lie
+
+The San Antonio Center is the worst "mixed use" development I know of in terms of walkability. Here is the central "Promenade"
+
+![promenade diagram]({{ site.baseurl }}/assets/mixed-use/promenade_diagram.png)
+
+It looks nice in concept, but here is what it looks like in reality.
+
+![promenade picture]({{ site.baseurl }}/assets/mixed-use/promenade_picture.png)
+
+This is a road with bricks instead of asphalt. It does not feel like a promenade. It feels like a road. It feels hostile to pedestrians. It is unpleasant to walk.
+
+In his book "Great Streets", Alan Jacobs describes how important it is for a street to have a sense of place, and talks about what does and does not work for creating that sense.
+Special pavings is called out explicitly as something that is commonly used and does not work. San Antonio Center is a case in point.
+
+In reality walking around San Antonio Center feels much the same as walking across the nearby Wal-Mart parking lot.
+
+## An Archipelago
+
+The second problem with the San Antonio Center is the context
+
+![parking archipelago]({{ site.baseurl }}/assets/mixed-use/great_sa.png)
+
+The Sand Antonio Village Center (yellow) is 45% buildings, 5% park and 50% roads and parking lots.
+And some of those building are also parking lots.
+
+The surrounding area (orange) is even more car-dependant.
+This section is 26% buildings, 0% park and 74% roads and parking lots.
+
+There is no expectation that people will walk from any one of these stores to another one. You are expected to drive.
+Going from Target to Trader Joe's is 1300 feet of walking across parking lots.
+
+## Potential To Do Better
+
+The North Bayshore Gateway plans look better
+
+![gateway diagram]({{ site.baseurl }}/assets/mixed-use/gateway_diagram.png)
+
+Two main differences I want to note.
+
+### 1. parking
+
+Parking is delegated to a corner away from all the entrances to the area. That means anyone walking or biking will not have to cross a parking lot.
+Surrounding a building with parking priorities the car and also is ugly.
+
+![gateway parking]({{ site.baseurl }}/assets/mixed-use/gateway_parking.png)
+
+### 2. greenways
+
+The plan has streets that are only accessible by pedestrians and cyclists.
+Separating cars from people is safer and more comfortable.
+
+## An Aside: Location
+
+For walkability the San Antonio Center has two things that the North Bayshore Gateway is lacking.
+
+- Proximity to Transit (2 bus lines and a nearby CalTrain Station)
+- Located near existing high-density housing.
+
+The North Bayshore Gateway is attempting to get the same things
+
+- Creating a dedicated bus lane for the Shoreline Ave overpass, and a separated bicycle overpass.
+- The gateway is part of a larger development plan that will include more residential units nearby.
+
+## Downtown as a Mixed Use Development
+
+Castro St in downtown Mountain View is also mixed use. The difference is that instead of being build as a monolith by a single developer, it was created by many
+developments guided and planned by the city.
+
+To encourage walkability the city allows developers to pay a fee instead of providing parking, and it uses these fees to build public parking facilities.
+
+This is similar to the North Bayshore Gateway plan of having a shared parking area.
+
+## Who Should Build Our City?
+
+While I am cautiously optimistic about the North Bayshore Gateway project, I don't think it is a good model for the future.
+
+![gateway drawing]({{ site.baseurl }}/assets/mixed-use/north_bayshore_gateway_drawing.png)
+
+- These kind of developments can only be undertaken by large developers
+- There is a homogeneity I dislike
+- There are few places where such developments can take place without destroying existing homes and businesses.
+
+Instead I would like the city to do more to encourage downtown-style development.
+
+- Encourage shared parking between businesses so that less parking is needed
+- Allow all developments to pay fees instead of providing parking
+- Use the fees not only to build public parking but also improve transit, pedestrian and bicycle infrastructure
+- Encourage buildings to face the street with parking in back, rather than the reverse
+- Designate some streets in dense areas as "greenways", limit or ban vehicle traffic
+
+## Where Should We Stash Cars
+
+I talked a lot about parking. But I want to emphasize it is not just about the amount of parking. Just removing the assumption that cars are the only way people will arrive can change the dynamic.
+
+|![san antionio greenways]({{ site.baseurl }}/assets/mixed-use/sa_greenways.png)|
+|:--:|
+|*San Antonio Reimagined - Two greenways (ped and bike only) cross the center, buildings front the street or the greenway, parking is two shared lots.*|
+
+This configuration has the same retail density, but the buildings have been moved to create walkable streets. Both cars and pedestrians are made to feel welcome. 
+
+## A City is for People
+
+Mixed-use development alone will not create a walkable city. We must create a welcoming environment for pedestrians. One simple thing we can do is to put the buildings back on the street, with parking behind.
+
+This one change will do more to make a place welcoming than any amount of fancy brick paving.
