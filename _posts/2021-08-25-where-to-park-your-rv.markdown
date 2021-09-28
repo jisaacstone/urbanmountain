@@ -2,6 +2,7 @@
 layout: post
 title:  "Where To Park Your RV In Mountain View"
 date:   2021-08-25 13:20:13 -0700
+image: assets/images/canpark.png
 categories: parking
 ---
 

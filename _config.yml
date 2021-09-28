@@ -20,16 +20,26 @@
 
 title: Urban Mountain
 email: isaac@jisaacstone.com
+author: urbanmountainv
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts and ideas for improving the city I live in.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jisaacstone
+baseurl: "/urbanmountain" # the subpath of your site, e.g. /blog
+url: "http://www.jisaacstone.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: jisaacstone
+twitter_username: urbanmountainv
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-pdf-embed
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
