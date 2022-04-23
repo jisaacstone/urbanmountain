@@ -1,0 +1,37 @@
+---
+layout: post
+title: "New Flag Designs for Mountain View"
+date: 2021-11-12 09:20:13 -0700
+image: "assets/flags/stylized.png"
+description: Designing new flags for the city of mountain view
+categories: fun
+---
+
+Like most cities, Mountain View has a flag.
+
+Like most cities, the flag is just the seal of the city on a blue background.
+
+![flag of mountain view]({{ site.baseurl }}/assets/flags/existing.gif "the current city flag")
+
+I am no vexillologist, but I thought I could do a bit better than an [SOB](https://vexillology.fandom.com/wiki/Seal_on_a_Bedsheet).
+
+The flag of the city of mountain view is rarely used by the city of mountain view. Often instead we see this graphic, with trees and a mountain.
+
+![city of mountain view logo]({{ site.baseurl }}/assets/flags/logo.jpg "the city logo")
+
+This is nice. I thought with some clean lines focused on the tree trees it would make a nice flag.
+
+I kept the gold for the sun and blue for the mountain, green for the grass and trees.
+
+![stylized flag]({{ site.baseurl }}/assets/flags/stylized.png "stylized flag")
+
+I like the straight lines, it is easy to draw and remember. But the trees don't look like trees anymore.
+So I brought back the trees from the logo.
+
+![logo trees]({{ site.baseurl }}/assets/flags/circle_trees.png "with trees")
+
+Looks nice. But I wanted to do one more. One of my favorite trees here are the coast redwoods, so I thought I'd go for that aesthetic.
+
+![redwood flag]({{ site.baseurl }}/assets/flags/redwoods.png "redwoods flag")
+
+That's it. Personally I am most happy with the redwoods version. Would love to see some other people have a go.

@@ -1,0 +1,54 @@
+---
+layout: post
+title: "A Puzzle - Rowhouses and Community"
+date: 2021-12-2 09:20:13 -0700
+image: "assets/tyrella/tyrella.png"
+description: How parking kills community in new developments
+categories: parking community
+---
+
+Rowhouses are being built all over Mountain View these days. Some of the recent developments have been controversial because they demolished existing apartments, destroying affordable housing for little or no net gain in total housing.
+
+But I am not talking about that today. 294 Tyrella has not seen any controversy. It replaces on single family home with 11 rowhouses. It is a big clear win for housing.
+
+I want to look at how the development will affect street life and community.
+
+![tyrella]({{ site.baseurl }}/assets/tyrella/tyrella.png)
+
+People meet each other more often when they are outside their houses. This is obvious. When the space outside of the house is made more pleasant and easy to access, people spend more time there. A sense of community develops, and also a sense of safety. You have what Jane Jacobs calls "eyes on the street". People feel safe letting their children play.
+
+Do the Tyrella rowhouses have spaces that are pleasant, easy to access and will build community? There has been an attempt.
+
+There are two common open spaces. However, half of the units do not have easy access to them. Units 8, 9 and 11 have easy access to the common spaces, but other residents will need to make a deliberate trip to the common space. It is unlikely these small areas will be worth such a trip. They will not be much used.
+
+A well designed street can be the center of a community. The central street in this development is a glorified driveway. There are no sidewalks or doors, only garages.
+
+![tyrella]({{ site.baseurl }}/assets/tyrella/garageface.png)
+
+No one will spend time here. Kids will not play here. Because of this division residents of units 1-5 are unlikely to make use of the common spaces.
+
+Units 1-5 do each have a yard. Yards are a place for kids to play and neighbors to meet. However, these yards face Middlefield.
+
+![tyrella]({{ site.baseurl }}/assets/tyrella/mid_face.png)
+
+Middlefield is a high-speed [stroad](https://www.strongtowns.org/journal/2018/3/1/whats-a-stroad-and-why-does-it-matter). The constant traffic and noise make it unpleasant. It also makes it difficult to have a conversation.
+
+It would be much better if the house and yard were flipped.
+
+![tyrella]({{ site.baseurl }}/assets/tyrella/mid_flip.png)
+
+Much better. We have a pleasant space where all the neighbors can meet and kids can play safely in the yard. But there is a good reason not to do this. Curb cuts.
+
+All those garages now face Middlefield. Entering and exiting the garages will be dangerous. Traffic on Middlefield is high speed. There is a bicycle land and sidewalk. Residents baking out of their garages will have little visibility. This configuration is unsafe.
+
+If we eliminate the two-car garage from every unit we have many many more better design options. Most of what is bad about this design is a product of the parking constraint. Without cars we can have a very nice open green space in the center.
+
+![tyrella]({{ site.baseurl }}/assets/tyrella/open.png)
+
+But we are in Mountain View, not Manhattan. Nearly every family owns at least one car. Build housing without parking and everyone a mile around will run to the council with cries of "spillover parking".
+
+One possibility is to remove the constraint that the parking needs to be in the house. Shared garages, car ports, street parking and similar solutions are much more flexible.
+
+![tyrella]({{ site.baseurl }}/assets/tyrella/open_park.png)
+
+The green space is more useful, everyone can have a private yard facing the common area, and all the ground floors have more habitable space. I would prefer to live in this development. Anyone else?
