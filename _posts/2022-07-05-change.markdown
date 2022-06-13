@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "How change happens in the city of Mountain View"
+date:   2022-06-05 13:20:13 -0700
+image: assets/images/general-plan-street-typology.png
+categories: change
+---
+
+## How Change Happens Now
+
+Mountain View has a [council-manager government](https://ballotpedia.org/Council-manager_government).
+The city manager is in charge of the day-to-day running of the city.
+For reasons of transparency all interaction between council and staff needs to be public.
+
+The oversimplified process is like this:
+- council provides direction to staff
+- staff does work and comes back with a proposal
+- council debates the proposal and either accepts, rejects, provides further direction, or some combination
+
+For some changes there is an established process.
+If you want stop signs on your street you can submit an application through the [neighborhood traffic management program](https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=36378).
+The city will do an expensive traffic study and then say your street doesn't meed the requirements for traffic calming.
+
+Many of the decisions staff makes are guided by council-approved plans, such as the [general plan](https://www.mountainview.gov/civicax/filebank/blobdload.aspx?blobid=10702) or the [middlefield park master plan](http://laserfiche.mountainview.gov/WebLink/DocView.aspx?id=242806&dbid=0&repo=CityDocuments).
+
+These plans are important. Perhaps your application for stop signs was refused because your street is categorized as a "Neighborhood Connector" and not a "Residential Street".
+These classifications are in the general plan, and if you disagree you would need to get the general plan changed.
+
+![street typology]({{ site.baseurl }}/assets/images/general-plan-street-typology.png "Street Typology map from the General Plan")
+
+Another influence is the requirements of various agencies. For example the fire department will advocate for wide roads and turns, so their vehicles can navigate around the city quickly.
+
+That is likely why the Middlefield Park plan has service streets with 13 foot lanes.
+
+![street crosssection]({{ site.baseurl }}/assets/images/service_13.png "Cross section of street with wide lanes")
+
+## Some Change is Easier
+
+Examples:
+
+- If you are building a home on a lot smaller than 6,000 square feet then the home needs to go through the development review process. Homes on larger lots do not.
+
+- If you feel a block needs street trees it is much easier to get those trees if there is a large redevelopment project on that street. Showing up at a public planning meeting and asking a developer to add street trees is often effective. Asking the city to put trees in without any development happening is usually futile.
+
+
+## Most Change is Slow
+
+555 Middlefield project has been going through the review process for 8 years. 10 years after a death on California St, and years after a road diet was approved, something might be happening finally this year.
+
+If we want change to happen faster, we need to understand why it is slow now.
+
+Developments like 555 Middlefield go through multiple committees, study sessions, etc. When people oppose a project council and committee members will try and appease them by requesting changes to the project. Every request slows the project down.
+
+Changes on California St are taking long because every change requires extensive and expensive studies, community engagement, etc. When staff faces opposition over parking or traffic fears they may shelve the project.
+
+
+### Staff Time is a Bottleneck
+
+When asked about why change is slow we often get an answer taking about how staff is overworked and has limited time, hiring new staff is difficult, etc.
+
+Changes to the system need to acknowledge that staff time is a limited resource, and money also is a limited resource.
+
+
+### There is a Bias for Inaction
+
+Few changes happen when any change requires studies, planning, approval and community engagement.
+People generally don't advocate for more street parking, but the will make a fuss if any street parking it removed.
+
+
+## Building a Better System
+
+Advocating for small concessions from every project one-by-one is exhausting and slow. Changing the system is better.
+
+Examples:
+
+- For projects like 555 Middlefield it would be better to get standards over trees, parking, construction and etc worked out beforehand for all projects. And have a streamlined process for projects that meet the standards.
+
+- For street safety, it would be better to have standards on safe roadway design. These standards would be applied whenever a street is due for repaving.
+
+Watch the council agenda, and when things like the work plan or general plan are on the agenda write or call in and share your thoughts.
+
+Consider joining a community organization such as [Mountain View Coalition for Sustainable Planning](http://www.mvcsp.org/), [Mountain View Streets for All](https://mvstreetsforall.org/) or [Balanced Mountain View](https://balancedmv.org/)
