@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Small Lot Single Family"
+date:   2022-07-31 09:20:13 -0700
+image: "assets/cutehouse/houselot.png"
+categories: density
+---
+This is one of my favorite houses in Mountain View.
+
+![cute house]({{ site.baseurl }}/assets/cutehouse/cute_house.png)
+
+This is a [small lot single-family development](https://library.municode.com/ca/mountain_view/codes/code_of_ordinances?nodeId=PTIITHCO_CH36ZO_ARTIVREZO_DIV13SMTSIMIDE_S36.16SMTSIMIDE).
+
+Small lot single family developments, like rowhouses and townhouses, are permitted in R2, R3 and R4 zoned areas in Mountain View, but unlike single family homes on lots over 6,000 square feet these buildings are requre a [planned unit development](https://library.municode.com/ca/mountain_view/codes/code_of_ordinances?nodeId=PTIITHCO_CH36ZO_ARTXVIZOORAD_DIV5PLUNDEPE_S36.46.70PLUNDEPE) and have to have a public hearing before they are approved.
+
+The number of townhouses are rowhomes in the city is growing every year, but small lot single family homes remain rare.
+
+![nerby townhomes]({{ site.baseurl }}/assets/cutehouse/comp1.png)
+![nerby rowhomes]({{ site.baseurl }}/assets/cutehouse/comp2.png)
+
+The rownhomes and townhomes are fine. But personally I would prefer a small lot home.
+Small lots on small homes are good for small families. Unlike a rowhose, I could renovate - put in a porch, add a jacuzzi, add a balcony.
+The backyard is small but could fit a trampoline or fire pit or sandbox or vegetable garden. 
+
+I believe many people would prefer small lots where they could build a home that suits them.
+So it is worth asking what prevents more from being built?
+
+![lot]({{ site.baseurl }}/assets/cutehouse/houselot.png)
+
+Simply put, small lot homes are rare because it is very difficult to get a small lot.
+R3 lots are too expensive for individuals to buy, and developers make more profit selling completed homes than individual lots.
+
+Sb9 may be of some help here, but it is limited. Restrictions on lot split and unit size restrict what can be built.
+
+What I would like to see is the city take the SB9 standards and apply them is a more uniform way.
+The city did the minimum to be compliant, but that means a complicated set of arbitrary restrictions.
+If 4ft setbacks are allowed, make them the new minimum. If 1,200sqft lots are allowed, make that the new minimum.
+
+I want to see infill of cute small homes for small families throughout the city. I hope one day to own one.
