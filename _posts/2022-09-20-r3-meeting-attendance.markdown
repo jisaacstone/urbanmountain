@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "R3 Statistics: Neighborhood Outreach Meetings"
+title:  "Let's R3 As If People Mattered"
 date:   2022-09-18 09:20:13 -0700
 image: "assets/cart/r_v_0.png"
 categories: housing outreach
@@ -15,7 +15,12 @@ So I decided to investigate.
 
 Below are my findings. I cover current conditions, the proposed changes, and the workshop attendance.
 
-## One: Current Conditions
+|![982 Bonita]( {{site.baseurl}}/assets/r3/982_bonita.png)|
+| *982 Bonita, one of many rowhouse projects currently under construction* |
+
+---
+
+## <span class="hemph">One:</span> Current Conditions
 
 ---
 
@@ -98,7 +103,9 @@ Rowhouses clearly dominate active projects, accounting for approximately 2/3 of 
 
 ---
 
-## Two: Them Changes
+## <span class="hemph">Two:</span> Them Changes
+
+---
 
 # *What is changing?*
 
@@ -142,18 +149,20 @@ A stacked flat is a rowhouse with multiple units.
 They are historically common, but not being built now because of current zoning.
 
 | ![Chicago two-flat]( {{ site.baseurl }}/assets/r3/two-flat-04.jpg ) |
-| *stacked flats, called two-flats or three-flats, make up a quarter of the housing in Chicago* |
+| *Stacked flats, also called two-flats or three-flats, make up a quarter of the housing in Chicago* |
 
 This is a good example of what is meant by "form-based".
 The code would not care how many units are inside the rowhouse, just how it looks. 
 Height, setback, and so on would be the same regardless of the number of units.
 
-If half of the current r3 rowhouses projects were instead two-unit stacked flats it would create 160 additional units.
+If half of the current R3 rowhouses projects were instead two-unit stacked flats it would create 160 additional units.
 This would be a 30% increase in housing being built in R3, with no change in building height or setbacks.
 
 ---
 
-## Three: The Outreach
+## <span class="hemph">Three:</span> The Workshops
+
+---
 
 # *Who are the steak-holders?*
 
@@ -195,33 +204,40 @@ Comparing with workshop attendance is problematic, since there were also nonresi
 I chose to scale the attendance bars such that residents equal 100%, and the nonresident portion sticks out above the 100% mark.
 This makes it easier to compare apples to apples in terms of renter composition.
 
-![renter neighborhood chart]({{ site.baseurl }}/assets/r3/r_v_o.png)
+|![renter neighborhood chart]({{ site.baseurl }}/assets/r3/r_v_o.png)|
+| *Despite being the neighborhood with the highest total population, over a third of the attendees at the San Antonio workshop did not live there* |
 
 The homeowner demographic was overrepresented in every neighborhood meeting.
 4 of the 6 neighborhoods were majority renter, but in none of the workshops were the majority of attendees renters.
-The San Antonio meeting, which had the highest percentage of renters among resident attendees, also had the highest number of nonresident attendees.
-Indeed, despite being the neighborhood with the highest population, the San Antonio workshop had the highest proportion of nonresident attendees of any meeting.
 
 Since we already have the renter population data for the neighborhoods, we can estimate how many renters or homeowners each attendee represented.
 That is, for each renter in attendance, how many renters in that neighborhood were not in attendance?
 
 |![representativeness]({{ site.baseurl }}/assets/r3/representativeness.png)|
-|* As a renter in the Central Neighborhoods, I was representing around 500 households, or 1300 people.*|
+| *As a renter in the Central Neighborhoods, I was representing around 500 households, or 1300 people* |
 
 Lower bars are better. We can see renters were best represented in Farley / Rock, and homeowners were best represented in the Central Neighborhoods.
 The Grant / Sylvan Park neighborhood has high bars here because the workshop was poorly attended.
 
 ---
 
-## *What happened at the workshops?*
+## Conclusion
 
 I went to the Central Neighborhoods meeting. It was long.
 There was talk about shadows, parking, water, schools, traffic and so on.
-Nobody mentioned dwelling units per acre.
 Building height was discussed a lot.
 Generally the idea of increasing walkability and allowing small, neighborhood-serving retail was agreed as good.
+Nobody mentioned dwelling units per acre.
 
 It was fine and good to have the discussion.
+Especially as there seems to be a lot of misunderstanding on what is the reality now, and what is the proposed change.
+I hope this post can help with the misunderstandings.
+Staff has said they will reach out proactively to groups underrepresented at the workshops.
+I hope they do so.
 
-But the reason it has been on my mind, and why I did all this research, was that I feel the concerns expressed don't reflect the majority.
-I worry that people who don't live in or near R3 areas will influence what gets built, while the people who will live there don't get a voice.
+There is an opportunity to create much needed housing and at the same time create more walkable, sustainable and affordable neighborhoods.
+There are legitimate concerns, such as displacement, but I don't want to lose sight of the goal.
+
+---
+
+![footer]({{ site.baseurl }}/assets/r3/rendering.png)
