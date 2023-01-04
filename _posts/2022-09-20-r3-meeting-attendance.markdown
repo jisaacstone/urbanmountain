@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Let's R3 As If People Mattered"
-date:   2022-09-18 09:20:13 -0700
-image: "assets/cart/r_v_0.png"
+date:   2022-09-24 14:20:13 -0700
+image: "assets/r3/r_v_o.png"
 categories: housing outreach
 ---
 
@@ -15,8 +15,7 @@ So I decided to investigate.
 
 Below are my findings. I cover current conditions, the proposed changes, and the workshop attendance.
 
-|![982 Bonita]( {{site.baseurl}}/assets/r3/982_bonita.png)|
-| *982 Bonita, one of many rowhouse projects currently under construction* |
+{% include image.html url="r3/982_bonita.png" alt="982 Bonita" caption="982 Bonita, one of many rowhouse projects currently under construction" %}
 
 ---
 
@@ -52,7 +51,7 @@ By area, about 14% of the city is zoned R3.
 Additionally a few precise plans incorporate some of the R3 standards by reference, and staff has informed me that updating the R3 standards could also affect these precise plan areas.
 Together these zones represent about 1/5 of all residential land in the city. However because R3 areas are more densely populated these areas represent about 2/5 of households in the city.
 
-![r3 neighborhood map]({{ site.baseurl }}/assets/r3/R3_By_Neighborhood.png)
+%{ include image.html url="r3/R3_By_Neighborhood.png" alt="R3 neighborhood map" %}
 
 Over half of R3 area in Mountain View is between Central Expressway and 101.
 Between Central and El Camino, nearly all lots west of Mariposa are either R3 or precise plans.
@@ -148,8 +147,7 @@ I didn't know what stacked flats are, so I had to [look it up](https://www.washi
 A stacked flat is a rowhouse with multiple units.
 They are historically common, but not being built now because of current zoning.
 
-| ![Chicago two-flat]( {{ site.baseurl }}/assets/r3/two-flat-04.jpg ) |
-| *Stacked flats, also called two-flats or three-flats, make up a quarter of the housing in Chicago* |
+{% include image.html url="r3/two-flat-04.jpg" alt="two story brick building" caption="Stacked flats, called two- or three-flats, make up a quarter of all housing in Chicago" %}
 
 This is a good example of what is meant by "form-based".
 The code would not care how many units are inside the rowhouse, just how it looks. 
@@ -170,8 +168,10 @@ Everyone can have opinions about building standards, but some groups will be mor
 
 Who is listened to, and who's needs are prioritized is a political question.
 
-|![book cover]({{ site.baseurl }}/assets/r3/housing-as-if-people-mattered.jpg)|
-|*One of the first books to offer housing design guidelines explicitly with the needs of future residents in mind*|
+{% include image.html
+  url="r3/housing-as-if-people-mattered.jpg"
+  alt="Book Cover"
+  caption="One of the first books to offer housing design guidelines explicitly with the needs of future residents in mind" %}
 
 1. People who currently live in R3-zoned property
   - main concern: displacement
@@ -192,20 +192,26 @@ I would love to know how many attendees were living in R3, but that question was
 I assume because the average person would not know if thy lived in R3 or not.
 Instead staffed asked attendees if they were renters or homeowners.
 
-|![statistics for sa]({{ site.baseurl }}/assets/r3/san_antonio_workshop.png)|![statistics for mw]({{ site.baseurl }}/assets/r3/moffett_whisman_workshop.png)|
-
-*zoom surveys were used to collect attendee demographics*
+<div class="row">
+{% include image.html url="r3/san_antonio_workshop.png" alt="san antonio" caption="zoom survey data" %}
+{% include image.html url="r3/moffett_whisman_workshop.png" alt="moffet whisman" caption="⠀" %}
+</div>
 
 We can use [census data](https://www.census.gov/quickfacts/mountainviewcitycalifornia) to compare the neighborhood makeup with the workshop attendees, to see how representative the workshops were.
 
-![renter neighborhood map]({{ site.baseurl }}/assets/r3/renters_by_neighborhood.png)
+{% include image.html
+  url="r3/renters_by_neighborhood.png"
+  alt="rental statistics by neighborhoos"
+  caption="Most housholds in Mountain View are renters, but they are not evently distributed throughout the city" %}
 
 Comparing with workshop attendance is problematic, since there were also nonresidents at the workshops.
 I chose to scale the attendance bars such that residents equal 100%, and the nonresident portion sticks out above the 100% mark.
 This makes it easier to compare apples to apples in terms of renter composition.
 
-|![renter neighborhood chart]({{ site.baseurl }}/assets/r3/r_v_o.png)|
-| *Despite being the neighborhood with the highest total population, over a third of the attendees at the San Antonio workshop did not live there* |
+{% include image.html
+  url="r3/r_v_o.png"
+  alt="renter neighborhood chart"
+  caption="Despite being the neighborhood with the highest total population, over a third of the attendees at the San Antonio workshop did not live there" %}
 
 The homeowner demographic was overrepresented in every neighborhood meeting.
 4 of the 6 neighborhoods were majority renter, but in none of the workshops were the majority of attendees renters.
@@ -213,8 +219,10 @@ The homeowner demographic was overrepresented in every neighborhood meeting.
 Since we already have the renter population data for the neighborhoods, we can estimate how many renters or homeowners each attendee represented.
 That is, for each renter in attendance, how many renters in that neighborhood were not in attendance?
 
-|![representativeness]({{ site.baseurl }}/assets/r3/representativeness.png)|
-| *As a renter in the Central Neighborhoods, I was representing around 500 households, or 1300 people* |
+{% include image.html
+  url="r3/representativeness.png"
+  alt="graph of representativeness"
+  caption="As a renter in the Central Neighborhoods, I was representing around 500 households, or 1300 people" %}
 
 Lower bars are better. We can see renters were best represented in Farley / Rock, and homeowners were best represented in the Central Neighborhoods.
 The Grant / Sylvan Park neighborhood has high bars here because the workshop was poorly attended.

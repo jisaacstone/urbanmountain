@@ -2,6 +2,7 @@
 layout: post
 title:  "Safety, Comfort and Class III Bike Paths"
 date:   2021-08-25 13:20:13 -0700
+image: "assets/images/class_iii_cross_section.png"
 categories: bikes
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Mixed Use, Parking, Walkability and Development"
 date:   2021-08-25 13:20:13 -0700
+image: "assets/mixed-use/promenade_diagram.png"
 categories: walkability, parking
 ---
 

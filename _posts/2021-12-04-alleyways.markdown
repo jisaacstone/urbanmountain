@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Bring Back Alleys"
-date: 2021-09-11 09:20:13 -0700
-image: "assets/images/death-due-to-speed.png"
+date: 2021-12-04 09:20:13 -0700
+image: "https://www.wanderherway.com/wp-content/uploads/2018/09/fullsizeoutput_28c7-1024x683.jpg"
 description: How to solve the conflict between active transit and car storage
 categories: safety roads
 ---

@@ -1,0 +1,10 @@
+{% assign webp_filename = include.url | replace: ".jpg", ".webp" | replace: ".jpeg", ".webp" | replace: ".png", ".webp" %}
+<figure>
+  <picture>
+    <source srcset="{{ site.baseurl }}/assets/{{ webp_filename }}" type="image/webp">
+    <img src="{{ site.baseurl }}/assets/{{ include.url }}" alt="{{ include.alt }}">
+  </picture>
+  {% if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>
