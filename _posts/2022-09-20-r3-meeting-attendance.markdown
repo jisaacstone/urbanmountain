@@ -72,7 +72,7 @@ This list includes applications under review, permitted applications, and projec
 R3 projects represent about 1/4 of all active projects.
 
 | Location | Floors | Units | Type |
-| ======== | ====== | ===== | ==== |
+| -------- | ------ | ----- | ---- |
 | 1332 Park Drive | 2 | 3 | Small Lot Single Family |
 | 918 Rich Ave    | 5 | 29 | Condo |
 | 198 Easy St | 3 | 5 | Rowhouse |

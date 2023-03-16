@@ -1,0 +1,216 @@
+---
+layout: post
+title:  "The Old Mill Precise Plan Amendment of 1991"
+date:   2023-02-24 09:20:13 -0700
+image:  "assets/oldmill/areal_oblique.png"
+categories: hostory,TOD
+---
+
+*Full meeting minutes including all letters, comments and discussion can be found [here]({{ site.baseurl }}/assets/oldmill/Item 05.01 - Old Mill Precise Plan Amendment.pdf)*.
+*All quotes below are taken from the minutes*
+
+{% include image.html
+  url="oldmill/mall_interior.jpg"
+  alt="Interior of the Old Mill Shopping Center"
+  caption="Interior of the Old Mill. source: <a href=\"https://californiarevealed.org/islandora/search?type=dismax&f%5B0%5D=mods_recordInfo_recordOrigin_ms%3AMountain%5C%20View%5C%20Public%5C%20Library\">Mountain View Public Library</a>"%}
+
+## The Shopping Center
+
+The Old Mill Shopping Center openend in Mountain View in 1976.
+This large indoor mall was the hip place to be for a time.
+
+But by the late 80s it had fallen out of favor, and it closed in 1989
+
+{% include image.html
+  url="oldmill/oldmill_disrepair.jpg"
+  alt="Demolition of the Old Mill Shopping Center"
+  caption="Before demolition, the eponymous millwhell lying in rubble. source: <a href=\"https://californiarevealed.org/islandora/search?type=dismax&f%5B0%5D=mods_recordInfo_recordOrigin_ms%3AMountain%5C%20View%5C%20Public%5C%20Library\">Mountain View Public Library</a>"%}
+
+## The Plan
+
+{: .quote }
+> Something is bound to be built on the site - and if the Castro Train Depot is relocated to the Old Mill, it will benefit the community overall.
+
+In the midst of the dot-com bubble, the city was in a housing crisis.
+The cost of housing had skyrocketed, and there were twice as many jobs as homes in the city.
+
+<div class="row">
+{% include image.html
+  url="oldmill/rents.png"
+  alt="Rents in MV in 1998"
+  %}
+
+{% include image.html
+  url="oldmill/housing_costs.png"
+  alt="cost of housing grew 7x in 25 years"
+  %}
+</div>
+
+{: .caption }
+source: Mountain View's 1990 housing element
+
+There was an interested developer, the Plymouth Group, who had a plan.
+The plan was to build a high-density, mixed-use, walkable transit-oriented development
+with affordable units included to address the growing jobs-housing imbalance and skyrocketing housing costs.
+
+* A maximum residential density of 43 units per gross
+* Predominantly three- to four-story buildings, with up to 8 stories in the northwest corner
+* Minimum 50 percent of the units to be for sale as owner-occupied housing
+* 3 to 1o percent of units at below-market rate
+* Retail and office uses allowed
+* 200 parking spaces at a new CalTrain stop
+* Public streets, a central public open space, and 90 percent of the parking underground
+
+The existing precise plan would need to be updated to allow for this development.
+In April of 1991 this [precise plan amendment]({{ site.baseurl }}/assets/oldmill/Item 05.01 - Old Mill Precise Plan Amendment.pdf) came before the Environmental Planing Commission.
+
+{% include image.html
+  url="oldmill/area_map.png"
+  alt="Precise Plan Area Map"
+  caption="Area D (purple) is where the Old Mill Shopping Center was"%}
+
+## The Neighbors
+
+{: .quote }
+> The project will provide little benefit to present citizens
+
+Many people either wrote or came and spoke at the meeting.
+Most of these people lived either in the Monta Loma neighborhood, or in the Old Mill Condominiums.
+
+{% include image.html
+  url="oldmill/areal_oblique.png"
+  alt="Arial of the area"
+  caption="Existing Old Mill Condominiums in blue, Monta Loma neighborhood in green, and the former Mayfield mall in yellow"%}
+
+The Old Mill Condominiums are 270 homes that were built across the street from the shopping center.
+This is a medium-density development of 2-4 stories, with a gross density of 30 homes per acre.
+
+Monta Loma is a neighborhood of suburban tract homes on the other side of Central Expressway.
+It consists of over 800 homes and over 150 acres.
+The plan had caught the attention of the neighborhood association, who sent out a survey to residents.
+
+{% include image.html
+  url="oldmill/survey.png"
+  alt="Copy of the survey"
+  caption="Sample survey. It was not exactly neutral on the subject"%}
+
+## Public Comment
+
+47 members of the public commented on the project.
+About half spoke in person at one of the EPC meetings.
+
+{% include image.html
+  url="oldmill/public-comment.png"
+  alt="Dr Lewis Johnson said he was in the mental health field and he protested the development in the name of sanity"
+  %}
+
+28% filled out one of the Monta Loma surveys, and 30% sent in a letter of their own.
+
+{% include image.html
+  url="oldmill/people_pollution.png"
+  alt="Please, no more people pollution, no more noise pollution"
+  %}
+
+Some people commented in more than one way.
+Curt Thiem, president of the Monta Loma Neighborhood Association, sent in a letter, filled out a survey, and came to the meeting where
+
+> He showed some slides taken from Mayfield Avenue illustrating how the height of the Old Mill currently obscures the Mountain view.
+
+70% of all comments were against the project.
+Some were against any development at all, but most were in favor of the idea of housing but against the proposed density or height of the project.
+
+{: .quote }
+> How can anyone possibly benefit by the addition of more high-density housing in an overpopulated area, least of all the potential residents of the new housing?
+
+By far the biggest complaint against the development was traffic, mentioned by 15 people.
+
+{: .quote }
+> The train station will add traffic and parking problems, while the residents' projected use of transit is grossly exaggerated
+
+Another common complaint was crime
+
+{: .quote }
+> Crime, drugs, gangs, and other problems of high density sites have not been addressed
+
+{: .quote }
+> The plan raises safety issues. It proposes an underground parking garage. How will this be policed? How many break-ins will occur? How many people will be robbed or mugged?
+
+Comments such as "this is not a desirable location for housing" or "north mountain view already has enough density" I categorized as `generic nimbyism`
+
+The top 5 complaints against the project:
+
+| Concern | Count |
+| ------- | ----- |
+| traffic | 13 |
+| school capacity | 8 |
+| water availability | 6 |
+| generic nimbyism | 6 |
+| crime   | 5 |
+
+Many people approved of the proposal.
+People who lived in the condos across the street were glad something was being done with the place.
+Many people stated it was good to build housing near transit and shops.
+
+{% include image.html
+  url="oldmill/exactly.png"
+  alt="I think high-density housing next to a railway station is _exactly_ what we should do"
+  %}
+
+## The EPC's Decision
+
+The EPC debated the issue over four separate meetings.
+
+After much deliberation the plan was passed by the EPC.
+They kept the height limits as stated, but recommended a reduction in maximum density from 55 homes per acre to 40 homes per acre.
+The plan was later adopted by the city with the EPC's recommended reduction.
+
+## What Happened After
+
+The hight density development that had been proposed was never built. 
+In 1995 the precise plan was amended again. This amendment reduced the _minimum_ density from 30 homes per acre to 21 homes per acre.
+A [new urbanist](https://patimes.org/crossings/) development, _The Crossings_, was eventually built on the site, at a density of 21 units per acre.
+
+The original proposal was for 720 homes.
+What actually got built was half that many.
+
+> Completed in 2000, the development contains 359 units – 102 small-parcel detached houses, 129 rowhouses and 128 condominiums – for a total of about 1,000 residents.
+
+In 2005, the city went through the same process for the former site of the Mayfield Mall, now Waymo headquarters.
+There was the same reaction from Monta Loma, and the same scaling back of allowed density.
+
+<div class="row">
+{% include image.html
+  url="oldmill/Mayfield_f2.png"
+  alt="Mayfield plan: allowed uses"
+  %}
+
+{% include image.html
+  url="oldmill/Mayfield_f3.png"
+  alt="Mayfield plan: height limits"
+  %}
+</div>
+
+{: .caption}
+source: [Mayfield Precise Plan](https://www.mountainview.gov/civicax/filebank/blobdload.aspx?blobid=2969)
+
+Today, 18 years later, not a single home has been built on the site.
+
+## Conclusion
+
+Allowing density is not the same as building density.
+Fear leads to caution, caution leads to half-measures, and nothing gets solved.
+_The Crossings_ is a lovely development, but building it did not address the jobs-housing imbalance in the city.
+
+The same fears about water, traffic, parking, schools are repeated whenever the city wants to allow for the construction of more homes.
+Fear leads to half measures, and the housing crises grows worse.
+
+[This paper](https://www.lewis.ucla.edu/research/building-up-the-zoning-buffer-using-broad-upzones-to-increase-housing-capacity-without-increasing-land-values/)
+analyzes land use policies and advocates zoning for 10x the density we want.
+{% include image.html
+  url="oldmill/la_zoning.png"
+  alt="City of Los Angeles zoning capacity and population, 1960-2030"
+  %}
+
+Vacant units are a sign of a healthy housing market.
+Unbuilt density is a sign of a healthy land use code.
+Expecting every single allowed unit to be built is why we still have a housing crises 22 years later.
