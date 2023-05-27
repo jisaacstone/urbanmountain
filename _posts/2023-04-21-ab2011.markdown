@@ -1,0 +1,235 @@
+---
+layout: post
+title: "AB-2011 Mixed-Use Map"
+date:   2023-04-23 09:20:13 -0700
+image: "assets/ab2011/density.png"
+categories: maps state-law
+---
+
+In an [article](https://commonedge.org/peter-calthorpe-has-a-plan-for-more-housing-in-california/) about AB-2011 one of
+the bill's authors claims it has the potential to actually build housing at the scale needed to affect the housing crisis in California.[^1]
+
+I want to map out all lots in the city that may be eligible for AB-2011 projects.
+But there are many terms in the [text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB2011) that need to be defined before I can make a map.
+
+---
+
+# What is a "Commercial Corridor"?
+
+That there is no actual "corridor" requirement.
+Instead a site needs to meet the following requirements:
+
+1. Office or Retail are a principal allowed use
+2. The road right-of-way is at least 70 feet wide
+
+## Allowed Uses
+
+I pulled the zoning use data from the general plan.
+The city does have a separate zoning map, but where these maps differ the general plan takes precedence.
+
+I did not want to delve to deep into use definitions, so I just chose all designations which allowed commercial or office.
+
+{% include image.html
+  url="ab2011/land_use.png"
+  alt="Map of Commercial, Office and Mixed Use areas"
+  caption="Parcels were given the data from the use area which has the largest overlap" %}
+
+The law specifically excludes lots which are next to industrial buildings.
+But this does not mean "buildings where industry is allowed", it means "buildings where industry is the current use".
+So the areas in green are more likely to have industrial use, and so neighboring lots will be exempt from AB-2011.
+
+## Wide Roads
+
+To qualify for AB-2011 Mixed-Use development a parcel must have at least 50 ft frontage on a road with a public right-of-way at least 70 feet wide.
+At 100 feet some of the density requirements change again.
+
+To get a measure of the roads in the city I needed data on the width of the right-of way.
+Public right-of-way is the bit of the city that the city owns, not just the street.
+
+{: .small-img }
+{% include image.html
+  url="ab2011/calderon.png"
+  alt="Showing the jagged and inconsistent right-of-way on Calderon"
+  caption="In some places the right-of-way can be different in front of each lot. Usually this is because the city planned to widen the road and was acquiring more right-of-way."%}
+
+I calculated the right of way width for all the roads in the city.
+I did this by calculating the distance from the centerline to the nearest parcel.
+Then I cleaned up some obvious edge cases. The result looks pretty close to accurate.
+
+{% include image.html
+  url="ab2011/row.png"
+  alt="Map of streets with right-of-way larger than 70 feet"
+  %}
+
+
+# Allowed Density
+
+The _minimum_ density of housing built on these corridors is defined by road width, lot size and distance to transit. [^2]
+
+{% include image.html
+  url="ab2011/flowchart.png"
+  alt="Withing half a mile of transit? 80 units/acre. Lot size less than 1 acre? 30 units/acre. Right-of-way over 100 feet? 70 unit/acre. Otherwise 40 units/acre"
+  %}
+
+For "Major Transit", I used the stops identified in the city's general plan.
+
+{% include image.html
+  url="ab2011/gp_transit.png"
+  alt="Map showing major transit stops in Mountain View"
+  caption="This map uses walking distance, which is harder to calculate. AB-2011 seems to use \"as the crow flies\" distance" %}
+
+---
+
+# Map!
+
+Now I had distance to transit, road width, and allowed use.
+The law also excludes
+* housing being built within 500ft of freeways.
+* lots with an area greater than 20 acres.
+
+After removing these excluded lots I was able to make a map:
+
+{% include image.html
+  url="ab2011/density.png"
+  alt="Map of AB-2011 Mixed-Use eligible lots"
+  caption="Lots that front a road with right-of-way over 70 feet, not within 500 feet of a freeway, where office or commercial are a primary allowed use"%}
+
+Not all lots in the map are guaranteed to be eligible for AB-2011 mixed-use projects.
+There were some restrictions I was not able to include in the rendered map.
+
+## Industrial Use
+
+As noted before, if the site is next to an "industrial use", then it cannot be developed into housing.
+
+> It is not on a site or adjoined to any site where more than one-third of the square footage on the site is dedicated to industrial use.
+
+I do not have any dataset for existing use, so I could not include in the map
+
+## Frontage
+
+Lots with frontage less than 50 feet are also not eligible. In reality very few lots are this narrow.
+
+{% include image.html
+  url="ab2011/old_middlefield_narrow_lot.png"
+  alt="One lot on Old Middlefield is too narrow for AB-2011"
+  caption="Along Old Middlefield, only the lot in yellow has a frontage less than 50 feet"%}
+
+There not being any easy way to calculation frontage, and there being so few lots that are excluded, I did not bother to add this information to the map.
+
+## Existing Housing
+
+Then there are these convoluted rules around any existing housing.[^3]
+
+Better to think in terms of what would be allowed. If there is existing housing of more than 4 units then an AB-2011 project could add additional housing so long as no existing units are destroyed.
+It would seem to also allow destruction of units so long as those units were not rented out anytime in the previous ten years. This seems unlikely.
+
+Probably any area with existing housing will not get developed unter AB-2011, unless it is an infill project like [555 W Middlefield](https://www.mountainview.gov/depts/comdev/planning/activeprojects/555middlefield.asp).
+
+---
+
+# Effect
+
+The law comes into effect in July. Will it increase the amount of housing that gets built in the city?
+Let's look at some areas of the city
+
+## ECR and Other Precise Plan Areas
+
+In some areas the height and density benefits may not be relevant.
+Along El Camino Real there is already a precise plan in place that has higher allowed height and no explicit density limit.
+However there are other benefits that may still make AB-2011 attractive.
+
+* A streamlined, ministerial development review process. This reduces risk and time to build.
+* No parking requirements. Although most developments meet or exceed the city's requirements, this may be significant on smaller lots.
+* No setback requirements for the front of the building.
+
+But benefits do not come for free. 
+
+* There is a requirement to provide affordable housing.
+* The developer must provide relocation assistance to any existing commercial tenants.
+* There are prevailing wage and apprenticeship requirements for the laborers who work on the project.
+
+And existing objective standards still apply. [^4]
+
+San Antonio, East Whisman and North Bayshore precise plans also allow dense multi-family housing already.
+AB-2011 may increase the number of viable projects in these areas, but I don't see it as a drastic change in the amount of allowed housing.
+
+## Moffett
+
+{: .small-img }
+{% include image.html
+  url="ab2011/moffett.png"
+  alt="Map of AB2011 lots along Moffett Blvd"
+  %}
+
+Along Moffett the existing zoning is CRA, which allows residential at 43 homes per acre maximum.
+Since it is near Caltrain any AB-2011 project would have 80 homes per acre minumum
+According to the law the objective standards shall be the nearest that allow density specified in AB-2011.
+
+Where is the nearest area that allows at least 80 homes per acre?
+
+Not downtown. Maximum density under the [downtown precise plan](https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=29700) is 50.
+But there is "High Density Residential" area defined in the general plan, which allows up to 80 homes per acre, and up to 5 stories. Two such areas are nearby.
+So the objective standards for AB-2011 projects in Moffett would seem to be [R4](https://library.municode.com/ca/mountain_view/codes/code_of_ordinances?nodeId=PTIITHCO_CH36ZO_ARTIVREZO_DIV6HINSR4ZODIST)
+
+Many of the lots along Moffett are smaller than the minimum defined in R4.
+Does this mean no AB-2011 projects on these lots,
+or does it mean some other zoning will apply that allows high denstiy on small lots,
+or do we just ignore that bit and apply the other standards?
+
+I dunno.
+
+## Old Middlefield
+
+{% include image.html
+  url="ab2011/om2.png"
+  alt="Map of Old Middlefield showing CRA zoning"
+  caption="13 lots (in green) are zoned CRA. 2 of these lots have housing"%}
+
+Old Middlefield is zoned mostly CN, which does not allow housing.
+One central lot is zoned CRA, and has a new mixed-use development.
+The lots are small and away from any major transit stops, which means they have a small minimum density.
+Which means for most of these lots the CRA maximum of 43 homes per acre will apply.
+Some lots on the east end may actually be closer to North Bayshore, which has a 280 page precise plan that I did not read.
+Pretty sure it allows more than 40 units per acre though.
+
+Old Middlefield may be the area which is most affected by AB-2011.
+If we assume a similar rate of development to those lots already zoned CRA, we can expect 8-9 new projects with 40-50 homes each.
+
+# Conclusion
+
+Although AB-2011 affects a large number of lots throughout the city, the effect on the amount of housing will be incremental.
+It may have a large effect at the state level, but it is not enough to correct the jobs-housing inbalance in this city.
+
+---
+
+### Footnotes
+
+[^1]: The [bill](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB2011) is divided into two parts.
+      The first part concerns 100% affordable housing.
+      I will not discuss that section here.
+      100% affordable will never produce a large amount of housing.
+
+      The interesting part is `Article  3: Mixed-Income Housing Developments Along Commercial Corridors`
+      This allows all lots along commercial corridors throughout the state to be developed into mixed-use housing.
+
+[^2]: There are different standards for density and height in "Metropolitan" areas.
+      The legal definition for determining if a city is "Metropolitan" was hard to follow.
+      Fortunately I was able to find a [chart](https://www.hcd.ca.gov/community-development/housing-element/housing-element-memos/docs/defaultdensity2020censusupdate.pdf) from HCD.
+      Mountain View is legally "Metropolitan", because the statistical area has more than 2 million. Palo Alto and Los Altos are also now "Metropolitan". Sunnyvale was already because it has a population over 100,000.
+      And Lost Altos Hills, with fewer than 15,000 residents, remains "Suburban".
+
+[^3]: There can be no AB-2011 project if:
+      1. The development would require the demolition of the following types of housing:
+       - (A) Housing that is subject to a recorded covenant, ordinance, or law that restricts rents to levels affordable to persons and families of moderate, low, or very low income.
+       - (B) Housing that is subject to any form of rent or price control through a public entity’s valid exercise of its police power.
+       - (C) Housing that has been occupied by tenants within the past 10 years, excluding any manager’s units.
+      2. The site was previously used for permanent housing that was occupied by tenants, excluding any manager’s units, that was demolished within 10 years before the development proponent submits an application under this article.
+      3. The development would require the demolition of a historic structure that was placed on a national, state, or local historic register.
+      4. The property contains one to four dwelling units.
+      5. The property is vacant and zoned for housing but not for multifamily residential use.
+      6. The existing parcel of land or site is governed under the Mobilehome Residency Law, the Recreational Vehicle Park Occupancy Law, the Mobilehome Parks Act, or the Special Occupancy Parks Act.
+
+[^4]: A concern many may have will be the loss of existing retail.
+      Many areas in downtown, ECR and "Village Center" zones have a requirement for ground floor retail.
+      That standard can be at least partially kept. According to the bill
+      >  The applicable objective standards may include a requirement that up to one-half of the ground floor of the housing development project be dedicated to retail use.
