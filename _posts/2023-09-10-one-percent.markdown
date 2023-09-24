@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Tax Levies Are Different in CA: The Prop 13 Pie"
-date:   2023-10-10 09:20:13 -0700
-image:  "assets/blocksize/large_blocks2.png"
+date:   2023-09-10 09:20:13 -0700
+image:  "assets/tra/onepercent_county.png"
 categories: taxes
 ---
 
@@ -38,7 +38,6 @@ The school district or the fire district may get a bigger portion.
 
 On average in Santa Clara county, cities get 9% of the total and the county gets 12%.
 But there is significant variation.
-A cities portion of the 1% is based on the [relative tax rates in 1979](https://www.pvestates.org/home/showpublisheddocument?id=3432), and cannot be changed.
 
 The Board of Equalization divides the county into [tax rate areas](https://www.boe.ca.gov/proptaxes/sprdcont.htm).
 Each area has the 1% tax divided differently.
@@ -47,11 +46,12 @@ Each area has the 1% tax divided differently.
 
 Let's look at an example.
 
-Here is the city's share of the 1%
+Here is each city's share of the 1%
 
 {% include image.html
   url="tra/onepercent_city.png"
   alt="City's share of the 1% property tax"
+  caption="A cities portion of the 1% is based on the relative tax rates in 1979"
   %}
 
 And here is the county's share.
@@ -59,6 +59,7 @@ And here is the county's share.
 {% include image.html
   url="tra/onepercent_county.png"
   alt="Santa Clara County's share of the 1% property tax"
+  caption="City and County are only two of many taxing entities"
   %}
 
 Notice that in both maps the center of Mountain View has a lower share then the rest of the city.
@@ -74,7 +75,7 @@ There is a levy on property owners in downtown to help pay for city-maintained p
 However, because the city cannot allocate more than the 1% property tax, the levy instead takes a little from everyone else.
 The 1% limit forces new levies to cannibalize revenue from existing levies.
 
-| Taxing Entity | [Downtown Distribution](https://payments.sccgov.org/propertytax/TaxAllocationResults?tra=014-007) | [Distribution Outside Downtown](https://payments.sccgov.org/propertytax/TaxAllocationResults?tra=005-000) |
+| Taxing Entity | [Downtown Distribution](https://payments.sccgov.org/propertytax/TaxAllocationResults?tra=005-097) | [Distribution Outside Downtown](https://payments.sccgov.org/propertytax/TaxAllocationResults?tra=005-000) |
 | --- | --- | --- |
 | Bay Area Air Quality Management District |0.17% |0.21% |
 | County School Service |3.11% |3.86% |
@@ -84,7 +85,7 @@ The 1% limit forces new levies to cannibalize revenue from existing levies.
 | Midpeninsula Regional Open Space District |1.41% |1.75% |
 | Mountain View |13.01% |16.07% |
 | Mountain View Elementary |15.96% |19.81% |
-| Mountain View-Los Altos Union High |16.04% |
+| Mountain View-Los Altos Union High |12.92% | 16.04% |
 | **Mountain View Parking District No.02** |16.20% |0% |
 | Santa Clara County |12.80% |15.81% |
 | Santa Clara County Importation Water-Misc District |0.44% |0.55% |
@@ -92,8 +93,13 @@ The 1% limit forces new levies to cannibalize revenue from existing levies.
 | Santa Clara Valley Water District North West Zone 1 |1.06% |1.31% |
 | Santa Clara Valley Water District West Zone 4 |0.11% |0.14% |
 
+In the downtown tax rate area there are 176 parcels, with a total yearly tax revenue of $4.73 million.
+This generates $766 thousand a year for the special parking district.
+If the special parking district were dissolved those funds would go to other entities.
+Mountain View Elementray for example would recieve an additinal $182 thousand a year if downtown were taxed the same as the surrounding area.
+
 ## Conclusion
 
 My intention here is to illustrate how prop 13 turned property tax levies into a zero-sum game.
 Property taxes in California are complex. I have a lot more data to analyze, so expect more posts coming soon on this topic.
-In the meantime if you are wanting to learn more [this series from 2016](https://lao.ca.gov/LAOEconTax?tagId=75) has some good history and analysis.
+In the meantime if you are wanting to learn more [this series from 2016](https://lao.ca.gov/LAOEconTax?tagId=75) has good history and analysis.

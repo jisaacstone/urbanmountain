@@ -29,6 +29,9 @@
           <li>
             <a href="{{ site.baseurl }}/feed.xml">rss</a>
           </li>
+          <li>
+            <span class="link" id="subscribe-button">mailing list</span>
+          </li>
         </ul>
       </div>
 
@@ -37,6 +40,14 @@
       </div>
     </div>
 
+  </div>
+  <div class="modal-dialog hidden" id="subscribe-dialog">
+    <label for="subscribe-email">Enter your email to recieve updates when new articles are posted</label>
+    <input type="email" id="subscribe-email" name="subscribe-email" />
+    <div class="row">
+      <button id="subscribe-button">Subscribe</button>
+      <button id="subscribe-cancel">Cancel</button>
+    </div>
   </div>
 
 </footer>
