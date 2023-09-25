@@ -1,0 +1,194 @@
+header, main, footer {
+  font-family: Avenir, 'Avenir Next LT Pro', Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+}
+
+video {
+  width: 110%;
+  margin: 1rem -5%;
+}
+
+img, figure {
+  display: block;
+  margin: auto;
+}
+
+figure {
+  border: 0.1em solid #D2D3D4;
+  background-color: #FDFEFD;
+  margin-bottom: 0.9em;
+}
+.caption {
+  border-top: 0.1em solid #D2D3D4;
+  background-color: #F5F6F2;
+  color: #320304;
+  padding: 0.2em 0.3em 0;
+}
+
+.row figure {
+  margin-bottom: 0;
+}
+
+.small-img img {
+  max-width: 70%;
+}
+.hidden {
+  visibility: hidden;
+}
+
+.modal-dialog {
+  position: fixed;
+  left: 50%;
+  top: 38%;
+  transform:translate(-50%, -50%);
+  background-color: rgba(252, 250, 256, 0.95);
+  border: 0.1rem solid #D2D3D4;
+  border-radius: 1rem;
+  box-shadow: 1rem 1rem 2rem rgba(12,6,9,0.2);
+  padding: 2rem;
+  display: flex;
+  align-content: center;
+  flex-flow: column;
+  gap: 2rem;
+}
+.modal-dialog button {
+  margin: 0 1rem;
+  padding: 0.2rem;
+  background-color: #E5E6E2;
+  color: #032032;
+}
+
+hr {
+  margin: 1rem;
+  color: #3eb8b9;
+  background-color: #339899;
+  border-radius: 30%;
+  height: 0.1rem;
+}
+
+.post-content h1 {
+  background-color: #E5E6E2;
+  font-size: 34px;
+  padding-top: 0.3rem;
+  padding-left: 0.2rem;
+  margin-top: 0.9rem;
+  margin-left: 0.2rem;
+  margin-right: 0.2rem;
+  color: #032032;
+}
+
+.post-content h1:before
+{
+  content: "◈◈";
+  position: relative;
+  top: -0.5rem;
+  left: -2.9rem;
+  color: #AB2011;
+  display: block;
+  width: 0;
+  height: 0;
+  z-index: -1;
+  font-size: 120%;
+}
+
+.post-content h2 {
+  background-color: #F5F6F2;
+  padding-top: 0.2rem;
+  padding-left: 0.2rem;
+  margin-top: 0.9rem;
+  margin-left: 0.4rem;
+  margin-right: 0.4rem;
+  color: #032032;
+}
+
+.post-content h2:before
+{
+  content: "▰▰";
+  position: relative;
+  top: -0.5rem;
+  left: -2.8rem;
+  color: #3eb8b9;
+  display: block;
+  width: 0;
+  height: 0;
+  z-index: -1;
+  font-size: 120%;
+}
+
+.quote {
+  color: #37303e;
+  background-color: #f9f8fe;
+  border: none;
+  margin-right: 1rem;
+  padding-right: 1rem;
+  margin-left: 1rem;
+}
+
+.quote:before {
+  content: "❝";
+  position: relative;
+  top: -1.3rem;
+  left: -1.9rem;
+  color: #3eb8b9;
+  display: block;
+  width: 0;
+  height: 0.1rem;
+  z-index: 5;
+  font-size: 220%;
+  text-shadow: 0.1ex 0.2ex 0.2ex rgba(0,0,3,0.4);
+}
+
+.hemph {
+  padding: 0.3rem 0.5rem 0;
+  margin-right: 0.5rem;
+  font-weight: bold;
+  color: #EF1798;
+  background-color: #d7d0be;
+  display: inline-block;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.post-list > li {
+  background-position: center;
+  background-size: cover;
+  padding: 0 0 4ex 1ex;
+  margin-top: 0.5ex;
+  text-shadow: 0.08rem 0.08rem 0.03rem white, 0 0 0.3rem white;
+  margin-bottom: 0;
+}
+
+.post-list a {
+  color: #3eb8b9;
+}
+
+.post-list a:hover {
+  color: #EF1798;
+}
+
+.post-list-heading {
+  text-align: center;
+  background: none;
+}
+
+footer a, footer .link, footer a:visited {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #3eb8b9;
+  margin: 0 0.3rem 1.6rem;
+  line-height: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+
+footer a:hover, footer .link:hover {
+  color: #111;
+  text-decoration: none;
+}
+
+header, footer {
+  background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.6)),
+              url("/urbanmountain/assets/r3/rendering.png") center no-repeat;
+}
