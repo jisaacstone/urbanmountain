@@ -1,0 +1,111 @@
+---
+layout: post
+title:  "Assesments and Parcel Taxes in Santa Clara County"
+date:   2023-11-04 09:20:13 -0700
+image:  "assets/tra/scc_tax_pct.png"
+categories: taxes
+---
+
+## Property tax components
+
+We already [talked about](taxes/2023/09/10/one-percent.html) the 1% tax rate set by prov 13 in California.
+But in Santa Clara County the effective tax rate is greater.
+
+{% include image.html
+  url="tra/scc_tax_pct.png"
+  alt="Effective tax rate"
+  caption="The effective tax rate varies between 1-2% across the county"
+  %}
+
+This is because, while prop 13 makes it much harder to increase property taxes, it does not prevent this from happening.
+Prop 13 specifies that all new taxes must be voter approved.
+And (with a couple exceptions) these ballot measures must have a 2/3 majority to pass.
+This makes it very hard to get them approved, but not impossible.
+
+Each tax is for a specific jurisdiction (city, school district, water district, etc) and only voters in the effected district vote on the tax.
+An specific subset of overlapping jurisdictions is called a "Tax Rate Aarea".
+For example the southern edge of the city of Santa Clara pays a slightly higher tax rate than most of the rest of the city.
+
+{% include image.html
+  url="tra/santa_clara_tax.png"
+  alt="Close up map of the city of Santa Clara"
+  caption="The light purple band at the far south of the city shows a consistently higher effective tax rate in that part of the city" %}
+
+That area is part of the Freemont Union high school district, and they have a special assessment other property owners in the city don't have to pay.
+This assessment is a voter-approved debt.
+
+## Voter Approved Debt Rates
+
+Voter approved debt is the most common addition to the 1% tax.
+One reason for this is that, unlike other taxes, general obligation bonds for school and community college facilities can be approved by just 55% of the vote.
+These bonds must be used for infrastructure projects, they cannot be used for operating expenses such as teacher salaries.
+
+The are variable rate, which means the amount can fluctuate year-to-year. And once they are paid off they go away.
+Voter approved debt is an inconsistent and inperminant 
+
+But why does the effective tax percent vary within a tax rate area? That is because of parcel taxes.
+
+## Parcel Taxes
+
+Parcel taxes do need a 2/3 majority vote to pass. Even so, many do manage to pass. 
+They are not tied to the value of the property.
+Most are flat rate. Meaning every parcel is asses the same dollar amount, regardless if it is a single condo or a giant corporate headquarters.
+
+But a parcel tax [does not need to be flat rate](https://www.mv-voice.com/news/2023/10/22/guest-opinion-mountain-view-whismans-parcel-tax-doesnt-have-to-be-a-flat-rate). 
+The "Safe, Clean Water" parcel tax is based on the parcel's [Impermeable Area](https://safecleanwaterla.org/resources/tools/). 
+
+An interesting new twist on parcel taxes is the 2021 [court ruling](https://edsource.org/2022/california-court-decision-ups-the-odds-for-passing-school-parcel-taxes/682086) on SF proposition G. The court ruled that if a tax is voter-initiated (from collection signatures) then it is not based on the "government's authority to tax" and so the 2/3 limit from prop 13 does not apply.
+
+Because parcel taxes are generally flat rate, their effective rate varies wildly.
+
+### Example of a Low Rate
+
+{% include image.html
+  url="tra/153-25-002.png"
+  alt="Assessor's map of parcel 153-25-002"
+  caption="The area marked '2' is parcel 153-25-002"
+  %}
+
+Consider parcel 153-25-002. This is a portion of an empty lot surrounded by roads.
+It appears to be owned by San Francisco, and likely has never been reassessed.
+
+So the $221 in parcel taxes add an additional 2.8% to this parcel's effective tax rate.
+
+Assessed value: $7,807
+
+Special Assessments
+
+| Code | Name | Amount |
+| --- | ---  | --- |
+| 0980 | MEASURE AA | $12.00 |
+| 0857 | MEASURE B 2017 | $191.00 |
+| 0847 | SCCO VECTOR CONTROL | $18.00 |
+
+### Rates Vary Within a Neighborhood
+
+{% include image.html
+  url="tra/central_city_tax.png"
+  alt="Assessed Value of different parcels in Mountain View"
+  caption="Within a neighborhood assessed value has more to do with the age of a building than it's actual worth"
+  %}
+
+Consider two equivelent homes, one occcupeied since 1970, one just sold.
+The first will have much lower assesed value, and — like the parcel above — all parcel taxes will be a higher percentage of the total tax on that property.
+So the home occupied since 1970 will have a "higher effective tax rate" when considering the total tax.
+
+{% include image.html
+  url="tra/two_blocks_tax.png"
+  alt="Assessed Value of different blocks in Mountain View"
+  caption="The property tax is on average double for the block on the left, despite these homes all having a similar market value"
+  %}
+
+Therefore areas with many older homes will show a higher effective tax rate than areas with mostly newer homes (or old homes with new owners).
+In the image above the effective tax rate for the block on the right will be .02% higher, because the $320 in parcel taxes represents a larger portion of the total tax property owners pay.
+This explains the variation in effective tax rate within a tax rate area.
+
+## Et Cetera
+
+There is a bit more to the tax story, like Mello-Roos. And other exceptions to prop 13 such as to fund retirement benefits or state water projects.
+But 1%, debt rates and parcel taxes seem to make up the bulk of what property owners pay here in Santa Clara County.
+
+If you are interested in more details I found this [2012 report](https://lao.ca.gov/reports/2012/tax/property-tax-primer-112912.aspx) to be a good overview.
