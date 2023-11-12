@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Assesments and Parcel Taxes in Santa Clara County"
+title:  "Debt Rates and Parcel Taxes in Santa Clara County"
 date:   2023-11-04 09:20:13 -0700
 image:  "assets/tra/scc_tax_pct.png"
 categories: taxes
 ---
 
-## Property tax components
+## Effective Tax Rates Are Over 1%
 
 We already [talked about](taxes/2023/09/10/one-percent.html) the 1% tax rate set by prov 13 in California.
 But in Santa Clara County the effective tax rate is greater.
@@ -67,19 +67,11 @@ Because parcel taxes are generally flat rate, their effective rate varies wildly
   %}
 
 Consider parcel 153-25-002. This is a portion of an empty lot surrounded by roads.
+It's assessed value is $7,807.
 It appears to be owned by San Francisco, and likely has never been reassessed.
 
 So the $221 in parcel taxes add an additional 2.8% to this parcel's effective tax rate.
-
-Assessed value: $7,807
-
-Special Assessments
-
-| Code | Name | Amount |
-| --- | ---  | --- |
-| 0980 | MEASURE AA | $12.00 |
-| 0857 | MEASURE B 2017 | $191.00 |
-| 0847 | SCCO VECTOR CONTROL | $18.00 |
+Bringing the effective tax rate for this parcel to around 4% of assesed value, the highest rate in the city.
 
 ### Rates Vary Within a Neighborhood
 
