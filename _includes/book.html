@@ -1,0 +1,9 @@
+<div class="book-item rating-{{ include.rating }}">
+  <picture>
+    <img src="{{ site.baseurl }}/assets/books/{{ include.cover }}" alt="book cover">
+  </picture>
+  <h3>{{ include.title }}</h3>
+  <div class="author">{{ include.author }}</div>
+  <div class="rating star-{{ include.rating }}">{{ include.rating }}</div>
+  <div class="description">{{ include.description }}</div>
+</div>
