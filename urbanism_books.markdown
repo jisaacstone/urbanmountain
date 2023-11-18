@@ -8,14 +8,9 @@ permalink: /books/
 
 Books I have read
 
-{% include book.html
-  cover="walkable_city_rules.jpg"
-  title="Walkable City Rules"
-  author="Jeff Speck"
-  rating="A"
-  description="Well-illustrated list of specific policies and designs to make a city more walkable. Practical and specific advice based on his other book, “Walkable City”"
-%}
+## Intro To Urbanism
 
+What I might recommend to read if you are new, curious, ans want to learn more about cities and urbanism.
 
 {% include book.html
   cover="soft_city.jpg"
@@ -27,6 +22,49 @@ David Sim works for Jan Gehl, who advises cities on urban design, public life, w
 %}
 
 {% include book.html
+  cover="happy_city.jpg"
+  title="Happy City"
+  author="Charles Montgomory"
+  rating="A"
+  description="An overview of many different policies and ideas on urban designs and programs that make people happy.
+  A huge variety of things discussed under this umbrella.
+  A good overview of many of ideas which are discussed more deeply in other books on this list"
+  %}
+
+{% include book.html
+  cover="curbing_traffic.jpg"
+  title="Curbing Traffic"
+  author="Melissa Bruntlett"
+  rating="A"
+  description="“We moved to the Netherlands, it is great, here is why”. Not Just Bikes in book form. Well organized and well written.
+  I enjoyed reading despite being already well versed in the subject."
+  %}
+
+{% include book.html
+  cover="confessions_of_a_recovering_engineer.jpg"
+  title="Confessions of a Recovering Engineer"
+  author="Charles L Marohn Jr"
+  rating="A"
+  description="A perspective on why deadly roads are built.
+  The way the USA builds roads is killing people and ruining communities, and yet it just keeps happening.
+  This book offers an inside look into how and why this keeps happening."
+  %}
+
+{% include book.html
+  cover="seeing_like_a_state.jpg"
+  title="Seeing Like a State"
+  author="James C Scott"
+  rating="A+"
+  description="The map is not the territory. Anyone in charge of any large project should read this book.
+  How even well-intentioned schemes can cause mass suffering, and a caution against hubris and over-confidence.
+  The lessons from this book are broadly applicable not just to urbanism, but to political and social systems broadly."
+  %}
+
+## Deep Cuts
+
+Get some more details, really dive into topics
+
+{% include book.html
   cover="housing_as_if_people_mattered.jpg"
   title="Housing as if People Mattered"
   author="Clare Cooper Marcus, Wendy Sarkissian"
@@ -35,20 +73,77 @@ David Sim works for Jan Gehl, who advises cities on urban design, public life, w
   %}
 
 {% include book.html
-  cover="tactical_urbanism.jpg"
-  title="Tactical Urbanism"
-  author="Mike Lydon, Anthony Garcia"
-  rating="B"
-  description="An overview of “tactical urbanism” and some advice on how to do things like paint a crosswalk, if you find your local government unresponsive and feel like taking things into your own hands."
-  %}
-
-
-{% include book.html
   cover="affordable_city.jpg"
   title="The Affordable City"
   author="Shane Phillips"
   rating="A-"
   description="A list of policies on how to make a city more affordable."
+  %}
+
+{% include book.html
+  cover="homelessness_is_a_housing_problem.jpg"
+  title="Homelessness is a Housing Problem"
+  author="Aldern Colburn"
+  rating="A-"
+  description="Like a long research paper, proving the thesis in the title."
+  %}
+
+{% include book.html
+  cover="zoned_in_the_usa.jpg"
+  title="Zoned in the USA"
+  author="Sonia A Hirt"
+  rating="A"
+  description="A comparative study of zoning in the USA, UK and Germany. Specifically calling out the things in us zoning that are unique. Euclidean zoning, minimum lot sizes, exclusively residential areas, etc. Skips over a bit why these idiosyncrasies exist. For that information read “The Color of Law”"
+  %}
+
+{% include book.html
+  cover="high_cost_of_free_parking.jpg"
+  title="The High Cost of Free Parking"
+  author="Donald Shoup"
+  rating="B"
+  description="Very data-driven book. A thick book devoted to a single subject with a huge amount of data analysis and very specific policy suggestions.
+  All these things appeal to me personally as a reader, but even I struggled at times. Then again, I already was convinced that free parking is bad when I read it.
+  If you are unconvinced that free parking is bad, and you find data and evidence convincing, you should read this book immediately."
+  %}
+
+{% include book.html
+  cover="human_transit.jpg"
+  title="Human Transit"
+  author="Jarrett Walker"
+  rating="A"
+  description="Dive into the specifics problems facing transit, and different approaches to solving those problems.
+  Operations problems, like coverage goals vs ridership goals. Clear writing and very easy to follow."
+%}
+
+{% include book.html
+  cover="livable_streets.png"
+  title="Livable Streets"
+  author="Donald Appleyard"
+  rating="B"
+  description="Case studies on the benefits of traffic reduction, and various traffic reduction schemes in the USA and UK.
+  Main points: people are more likely to know their neighbors on low traffic streets, and traffic reduction schemes have strong initial opposition but after implementation there is rarely any push to revert the changes.
+  A lot of new information about traffic calming has been gathered since this book was published. Would love to see a follow up."
+  %}
+
+## Other Books
+
+Other books I have read, some great, some not so much
+
+{% include book.html
+  cover="walkable_city_rules.jpg"
+  title="Walkable City Rules"
+  author="Jeff Speck"
+  rating="A"
+  description="Well-illustrated list of specific policies and designs to make a city more walkable.
+  Practical and specific advice based on his other book, “Walkable City”"
+%}
+
+{% include book.html
+  cover="tactical_urbanism.jpg"
+  title="Tactical Urbanism"
+  author="Mike Lydon, Anthony Garcia"
+  rating="B"
+  description="An overview of “tactical urbanism” and some advice on how to do things like paint a crosswalk, if you find your local government unresponsive and feel like taking things into your own hands."
   %}
 
 {% include book.html
@@ -64,8 +159,8 @@ David Sim works for Jan Gehl, who advises cities on urban design, public life, w
   title="Feminist City"
   author="Leslie Kern"
   rating="B"
-  description="Did not finish
-Nice as an introduction to the idea of feminist geography."
+  description="
+Nice as an introduction to the idea of feminist geography. Half a memoir, lots of personal anecdotes."
 %}
 
 {% include book.html
@@ -73,7 +168,7 @@ Nice as an introduction to the idea of feminist geography."
   title="Reclaiming Your Community"
   author="Majora Carter"
   rating="B"
-  description="Memoir of Majora's work building her community."
+  description="Memoir of Majora's work building her community. I enjoyed the perspective, different from that of many other books on this list"
   %}
 
 {% include book.html
@@ -81,15 +176,9 @@ Nice as an introduction to the idea of feminist geography."
   title="Street Fight"
   author="Janette Sadik-Khan"
   rating="C"
-  description="Did not finish"
-  %}
-
-{% include book.html
-  cover="homelessness_is_a_housing_problem.jpg"
-  title="Homelessness is a Housing Problem"
-  author="Aldern Colburn"
-  rating="A-"
-  description="Like a long research paper, proving the thesis in the title."
+  description="Very new-york focused, kind of a memoir of what she did as transportation commissioner in NYC.
+  I did not find it very compelling, but that could be because I was already familiar with most of what the book covered.
+  Probably a good read if you are unfamiliar with the transformations that have been happening in New York."
   %}
 
 {% include book.html
@@ -115,14 +204,6 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   author="Andrés Duany, Elizabeth Plater-Zyberk, Jeff Speck"
   rating="B"
   description="Older book, precursor to Walkable City and other books. An enjoyable read."
-  %}
-
-{% include book.html
-  cover="happy_city.jpg"
-  title="Happy City"
-  author="Charles Montgomory"
-  rating="A"
-  description="An overview of many different policies and ideas on urban designs and programs that make people happy. A huge variety of things discussed under this umbrella. A good overview of many of ideas which are discussed more deeply in other books on this list"
   %}
 
 {% include book.html
@@ -166,14 +247,6 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   %}
 
 {% include book.html
-  cover="seeing_like_a_state.jpg"
-  title="Seeing Like a State"
-  author="James C Scott"
-  rating="A+"
-  description="The map is not the territory. Anyone in charge of any large project should read this book. How even well-intentioned schemes can cause mass suffering, and a caution against hubris and over-confidence. The lessons from this book are broadly applicable not just to urbanism, but to political and social systems broadly."
-  %}
-
-{% include book.html
   cover="golden_gates.jpg"
   title="Golden Gates"
   author="Conor Dougherty"
@@ -181,14 +254,6 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   description="How the California housing crisis created the YIMBY movement. Focused on the SF Bay area and specifically Sanja Trauss, but at the same time providing historical and regional context that created the crisis."
   %}
 
-
-{% include book.html
-  cover="zoned_in_the_usa.jpg"
-  title="Zoned in the USA"
-  author="Sonia A Hirt"
-  rating="A"
-  description="A comparative study of zoning in the USA, UK and Germany. Specifically calling out the things in us zoning that are unique. Euclidean zoning, minimum lot sizes, exclusively residential areas, etc. Skips over a bit why these idiosyncrasies exist. For that information read “The Color of Law”"
-  %}
 
 {% include book.html
   cover="color_of_law.jpg"
@@ -207,20 +272,14 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   %}
 
 {% include book.html
-  cover="confessions_of_a_recovering_engineer.jpg"
-  title="Confessions of a Recovering Engineer"
-  author="Charles L Marohn Jr"
-  rating="A"
-  description="A perspective on why deadly roads are built. The way the USA builds roads is killing people and ruining communities, and yet it just keeps happening. This book offers an inside look into how and why this keeps happening."
-  %}
-
-{% include book.html
   cover="triumph_of_the_city.jpg"
   title="Triumph of the City"
   author="Edward Glaeser"
   rating="C"
-  description="Did Not Finish
-This book is a refutation of the notion that cities are dying. I found it boring and stopped reading in the middle of chapter 3"
+  description="
+This book is a refutation of the notion that cities are dying.
+It is old and feels so.
+I found it boring and stopped reading in the middle of chapter 3"
 %}
 
 {% include book.html
@@ -229,14 +288,6 @@ This book is a refutation of the notion that cities are dying. I found it boring
   author="James Howard Kunstler"
   rating="C"
   description="Suburbs and strip malls no not real places. No one feels affinity or affection for them. This book is more emotion and philosophy. The style did not appeal to me"
-  %}
-
-{% include book.html
-  cover="high_cost_of_free_parking.jpg"
-  title="The High Cost of Free Parking"
-  author="Donald Shoup"
-  rating="B"
-  description="Very data-driven book. A thick book devoted to a single subject with a huge amount of data analysis and very specific policy suggestions. All these things appeal to me personally as a reader, but even I struggled at times. Then again, I already was convinced that free parking is bad when I read it. If you are unconvinced that free parking is bad, and you find data and evidence convincing, you should read this book immediately."
   %}
 
 {% include book.html
@@ -264,14 +315,6 @@ This book is a refutation of the notion that cities are dying. I found it boring
   %}
 
 {% include book.html
-  cover="livable_streets.png"
-  title="Livable Streets"
-  author="Donald Appleyard"
-  rating="B"
-  description="Case studies on the benefits of traffic reduction, and various traffic reduction schemes in the USA and UK. Main points: people are more likely to know their neighbors on low traffic streets, and traffic reduction schemes have strong initial opposition but after implementation there is rarely any push to revert the changes."
-  %}
-
-{% include book.html
   cover="child_in_the_city.jpg"
   title="The Child in the City"
   author="Colin Ward"
@@ -293,14 +336,6 @@ This book is a refutation of the notion that cities are dying. I found it boring
   author="Jan Gehl, Lars Gemzøe, Richard Rogers"
   rating="C"
   description="Case studies of different plaza and park projects, giving urban context, design and the effectiveness of each."
-  %}
-
-{% include book.html
-  cover="curbing_traffic.jpg"
-  title="Curbing Traffic"
-  author="Melissa Bruntlett"
-  rating="A"
-  description="“We moved to the Netherlands, it is great, here is why”. Not Just Bikes in book form. Well organized and well written. I enjoyed reading despite being already well versed in the subject."
   %}
 
 {% include book.html
