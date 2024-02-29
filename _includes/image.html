@@ -5,6 +5,13 @@
     <img src="{{ site.baseurl }}/assets/{{ include.url }}" alt="{{ include.alt }}">
   </picture>
   {% if include.caption %}
-  <figcaption class="caption">{{ include.caption }}</figcaption>
+    <figcaption class="caption">
+    {{ include.caption }}
+    {% if include.source_url %}
+      <div class="figsource">
+        <a class="sourceurl" href="{include.source_url}">{{ include.source_text or "source" }}</a>
+      </div>
+    {% endif %}
+    </figcaption>
   {% endif %}
 </figure>

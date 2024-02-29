@@ -192,3 +192,8 @@ header, footer {
   background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.6)),
               url("/urbanmountain/assets/r3/rendering.png") center no-repeat;
 }
+
+.fulltext {
+  font-size: small;
+  color: #010506;
+}

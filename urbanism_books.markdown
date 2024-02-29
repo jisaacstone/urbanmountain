@@ -6,11 +6,11 @@ extrastyle: booklist.css
 permalink: /books/
 ---
 
-Books I have read
+Books I have read on urbanism.
 
 ## Intro To Urbanism
 
-What I might recommend to read if you are new, curious, ans want to learn more about cities and urbanism.
+What I might recommend to read if you are new, curious, and want to learn more about cities and urbanism.
 
 {% include book.html
   cover="soft_city.jpg"
@@ -77,7 +77,7 @@ Get some more details, really dive into topics
   title="The Affordable City"
   author="Shane Phillips"
   rating="A-"
-  description="A list of policies on how to make a city more affordable."
+  description="A list of policies on how to make a city more affordable. Simple and practical"
   %}
 
 {% include book.html
@@ -85,7 +85,7 @@ Get some more details, really dive into topics
   title="Homelessness is a Housing Problem"
   author="Aldern Colburn"
   rating="A-"
-  description="Like a long research paper, proving the thesis in the title."
+  description="Like a long research paper, proving the thesis in the title. Lots of data and graphs."
   %}
 
 {% include book.html
@@ -143,7 +143,8 @@ Other books I have read, some great, some not so much
   title="Tactical Urbanism"
   author="Mike Lydon, Anthony Garcia"
   rating="B"
-  description="An overview of “tactical urbanism” and some advice on how to do things like paint a crosswalk, if you find your local government unresponsive and feel like taking things into your own hands."
+  description="An overview of “tactical urbanism” and some advice on how to do things like paint a crosswalk,
+    if you find your local government unresponsive and feel like taking things into your own hands."
   %}
 
 {% include book.html
@@ -160,7 +161,7 @@ Other books I have read, some great, some not so much
   author="Leslie Kern"
   rating="B"
   description="
-Nice as an introduction to the idea of feminist geography. Half a memoir, lots of personal anecdotes."
+Nice as an introduction to the idea of feminist geography. Half a memoir - lots of personal anecdotes."
 %}
 
 {% include book.html
@@ -168,7 +169,8 @@ Nice as an introduction to the idea of feminist geography. Half a memoir, lots o
   title="Reclaiming Your Community"
   author="Majora Carter"
   rating="B"
-  description="Memoir of Majora's work building her community. I enjoyed the perspective, different from that of many other books on this list"
+  description="Memoir of Majora's work building her community. I enjoyed the perspective, different from that of many other books on this list.
+  Hopefully it can motivate some more people to get involved in transforming their own communities."
   %}
 
 {% include book.html
@@ -186,7 +188,7 @@ Nice as an introduction to the idea of feminist geography. Half a memoir, lots o
   title="The Public Wealth of Cities"
   author="Dag Detter, Stefan Folster"
   rating="D"
-  description="Did not Finish
+  description="Did not Finish.
 Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
 %}
 
@@ -211,7 +213,9 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   title="Life Between Buildings"
   author="Jan Gehl"
   rating="A+"
-  description="First book I read on city design. This book got me into urbanism. An old book, with data on how to make streets so safe that children play on them. Recognizing that streets could be made safe and lively really motivated me to figure out how to actually get these changes implemented in my city."
+  description="First book I read on city design. This book got me into urbanism.
+  An old book, with data on how to make streets so safe that children play on them.
+  Recognizing that streets could be made safe and lively really motivated me to figure out how to actually get these changes implemented in my city."
   %}
 
 {% include book.html
@@ -219,7 +223,8 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   title="Cities for People"
   author="Jan Gehl"
   rating="A+"
-  description="Covers many of the same topics as “Life Between Buildings”. If you read that book and also “Soft City”, you can skip this book."
+  description="Covers many of the same topics as “Life Between Buildings”.
+  If you read that book and also “Soft City”, you can skip this book."
   %}
 
 {% include book.html
@@ -227,7 +232,8 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   title="Great Streets"
   author="Allan B Jacobs"
   rating="B"
-  description="Case studies of different streets, documenting how they look and what, in the author’s opinion, makes them “great”. An enjoyable read with beautiful illustrations."
+  description="Case studies of different streets, documenting how they look and what, in the author’s opinion, makes them “great”.
+  An enjoyable read with beautiful illustrations."
   %}
 
 {% include book.html
@@ -235,7 +241,9 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   title="Town Planning in Practice"
   author="Raymond Unwin"
   rating="A"
-  description="Over 100 years later this book still holds up. The author has obvious enthusiasm for the subject, and the writing is compelling. I think what makes this book timeless is this: It simply talks about what makes a city a nice place to live, with not too much time devoted to political or administrative processes."
+  description="Over 100 years later this book still holds up.
+  The author has obvious and infectious enthusiasm for the subject.
+  I think what makes this book timeless is this: It simply talks about what makes a city a nice place to live, with not too much time devoted to political or administrative processes."
   %}
 
 {% include book.html
@@ -243,7 +251,8 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   title="A Pattern Language"
   author="Christopher W. Alexander"
   rating="B"
-  description="Heavily philosophical. Some interesting ideas, but for the most part impractical. Useful mostly as food for thought."
+  description="Heavily philosophical. Some interesting ideas, but for the most part impractical.
+  Useful mostly as food for thought. Read and ponder."
   %}
 
 {% include book.html
@@ -251,7 +260,9 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   title="Golden Gates"
   author="Conor Dougherty"
   rating="A"
-  description="How the California housing crisis created the YIMBY movement. Focused on the SF Bay area and specifically Sanja Trauss, but at the same time providing historical and regional context that created the crisis."
+  description="How the California housing crisis created the YIMBY movement.
+  Focused on the SF Bay area, and specifically Sanja Trauss. At the same time providing historical and regional context that created the crisis.
+  As a bay area resident I felt more connected to the narrative than I may have felt with the New-York centered “Street Fight”"
   %}
 
 
@@ -260,7 +271,9 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   title="The Color of Law"
   author="Richard Rothstein"
   rating="A"
-  description="I thought I knew what this book would cover. I was kind of correct, but way off on the magnitude. The history of housing in America is racist in every way imaginable. This book should make you angry."
+  description="I thought I knew what this book would cover.
+  I was kind of correct, but way off on the magnitude.
+  The history of housing in America is racist in every way imaginable. This book should make you angry."
   %}
 
 {% include book.html
@@ -268,7 +281,9 @@ Disjointed, unconvincing set of neoliberal-esq policy suggestions for cities"
   title="Strong Towns"
   author="Charles L Marohn Jr"
   rating="B"
-  description="The central thesis of this book is that building cities in the “traditional” way is financially sustainable in the long term. Building suburbs is not. I may have enjoyed it less because I already knew most of the arguments in the book. But personally I found “Confessions of a Recovering Engineer” to be a much better book overall."
+  description="The central thesis of this book is that building cities in the “traditional” way is financially sustainable in the long term.
+  Building suburbs is not. I may have enjoyed it less because I already knew the arguments in the book.
+  I found “Confessions of a Recovering Engineer” to be a much better book overall."
   %}
 
 {% include book.html
@@ -287,7 +302,8 @@ I found it boring and stopped reading in the middle of chapter 3"
   title="The Geography of Nowhere"
   author="James Howard Kunstler"
   rating="C"
-  description="Suburbs and strip malls no not real places. No one feels affinity or affection for them. This book is more emotion and philosophy. The style did not appeal to me"
+  description="Suburbs and strip malls no not real places. No one feels affinity or affection for them.
+  This book is emotion and philosophy. The style did not appeal to me. Though I can feel and appreciate the message I personally like facts and figures better."
   %}
 
 {% include book.html
@@ -303,7 +319,8 @@ I found it boring and stopped reading in the middle of chapter 3"
   title="Radical Cities"
   author="Justin McGuirk"
   rating="B"
-  description="Some case studies from different latin american cities on unique solutions for urban problems. Covers bus rapid transit, car-free sundays, gondolas to the favelas, and other latin-american urban innovations."
+  description="Some case studies from different latin-american cities on unique solutions for urban problems.
+  Covers bus rapid transit, car-free Sundays, gondolas to the favelas, and other latin-american urban innovations."
   %}
 
 {% include book.html
@@ -311,7 +328,9 @@ I found it boring and stopped reading in the middle of chapter 3"
   title="Retrofitting Suburbia"
   author="Ellen Dunham-Jones"
   rating="C"
-  description="Case studies on urban retrofits applied to suburban areas. I was disappointed specifically because I was hoping for something different. This focuses mostly on transforming suburban strip-malls. But I was wanting some information on applicable policies for already built-out suburban residential sprawl."
+  description="Case studies on urban retrofits applied to suburban areas.
+  I was disappointed specifically because I was hoping for something different.
+  This focuses mostly on transforming suburban strip-malls. But I was wanting some information on applicable policies for already built-out suburban residential sprawl."
   %}
 
 {% include book.html
@@ -319,7 +338,8 @@ I found it boring and stopped reading in the middle of chapter 3"
   title="The Child in the City"
   author="Colin Ward"
   rating="C"
-  description="How and why you should make streets safe for kids. I remember this book only vaguely. However the main premise, that children should be able to play anywhere in a city, is one I agree with strongly."
+  description="How and why you should make streets safe for kids. I remember this book only vaguely.
+  However the main premise, that children should be able to play anywhere in a city, is one I agree with strongly."
   %}
 
 {% include book.html
@@ -335,7 +355,8 @@ I found it boring and stopped reading in the middle of chapter 3"
   title="New City Spaces"
   author="Jan Gehl, Lars Gemzøe, Richard Rogers"
   rating="C"
-  description="Case studies of different plaza and park projects, giving urban context, design and the effectiveness of each."
+  description="Case studies of different plaza and park projects, giving urban context, design and the effectiveness of each.
+  I had trouble staying focused when reading."
   %}
 
 {% include book.html
@@ -343,7 +364,9 @@ I found it boring and stopped reading in the middle of chapter 3"
   title="The Image of the City"
   author="Kevin Lynch"
   rating="C"
-  description="How people conceptualize their city. I found it very hard to read and didn’t really understand why anything in the book is significant."
+  description="How people conceptualize their city.
+  I found it very hard to read and didn’t really understand why anything in the book is significant.
+  It did come to me highly recommended so perhaps my expectations were too high."
   %}
 
 {% include book.html
@@ -351,7 +374,9 @@ I found it boring and stopped reading in the middle of chapter 3"
   title="The Death and Life of Great American Cities"
   author="Jane Jacobs"
   rating="B"
-  description="Most of the books I like here quote this book. So perhaps the problem is that I had already become very familiar with the book’s arguments. I read about half way through but did not finish."
+  description="Most books I like quote this book.
+  So perhaps the problem is that I had already become very familiar with the book’s arguments.
+  I read about half way through but did not finish."
   %}
 
 {% include book.html
@@ -359,7 +384,8 @@ I found it boring and stopped reading in the middle of chapter 3"
   title="Capital City"
   author="Samuel Stein"
   rating="C"
-  description="Capitalism is bad, gentrification is bad, and a bit in the middle about the Trump family. They are also bad. The book had a lack of cohesion and was not very compelling."
+  description="Capitalism is bad, gentrification is bad, and a bit in the middle about the Trump family.
+  They are also bad. The book had a lack of cohesion and was not very compelling."
   %}
 
 {% include book.html
@@ -367,7 +393,9 @@ I found it boring and stopped reading in the middle of chapter 3"
   title="Arbitrary Lines"
   author="M Nolan Grey"
   rating="B"
-  description="Zoning is bad, maybe we should get rid of it. It is a short book and a good intro to American zoning. Personally I liked “Zoned in the USA” better."
+  description="Zoning is bad, maybe we should get rid of it. It is a short book and a good intro to American zoning.
+  Personally I liked “Zoned in the USA” better, as it provides more context and comparisons with other methods.
+  The advantage of this book is the clear language and short length make it a very quick read."
   %}
 
 {% include book.html
@@ -375,5 +403,8 @@ I found it boring and stopped reading in the middle of chapter 3"
   title="Carmageddon"
   author="Daniel Knowles"
   rating="B"
-  description="When cars were first introduced to cities people hated them, and cities tried to ban them. But somehow that all got flipped around and cities destroyed themselves to make room for cars. How did that happen? This book has some of the answers."
+  description="When cars were first introduced to cities people hated them, and cities tried to ban them.
+  But somehow it got flipped around - cities destroyed themselves to make room for cars.
+  How did that happen? This book has some of the answers.
+  I appreciated the history. It is good to know that the takeover of cars was always controversial and strongly resisted from the beginning."
   %}
