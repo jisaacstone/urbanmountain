@@ -1,0 +1,42 @@
+.book-item {
+  display: grid;
+  grid-template-areas:
+    "cover cover"
+    "title title"
+    "author rating"
+    "desc desc";
+  padding-top: 1rem;
+  border-top: 2px solid #339899;
+}
+
+.book-item picture {
+  grid-area: cover;
+  max-width: 60%;
+  max-height: 60vh;
+  overflow: clip;
+  margin: auto;
+}
+.book-item h3 {
+  grid-area: title;
+  width: 100%;
+  margin-top: 0.5rem;
+  padding-top: 0.2rem;
+  padding-left: 0.2rem;
+  font-weight: 400;
+  background-color: rgba(12,6,9,0.1);
+  color: #AB2011;
+  text-shadow: -1px -1px 0 rgba(250,250,253,0.9);
+}
+
+.author {
+  grid-area: author;
+  font-style: italic;
+}
+.rating {
+  grid-area: rating;
+  font-weight: bold;
+  justify-self: end;
+}
+.description {
+  grid-area: desc;
+}

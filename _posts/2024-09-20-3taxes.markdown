@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Tax Talk 2024"
+date:   2024-09-19 09:20:13 -0700
+categories: taxes
+---
+
+There are three current tax topics in the news.
+They are sometimes conflated or confused.
+
+_Measure G_ will be a new revenue measure on the ballot this November.
+This is an increase in the transfer tax (assessed when a property changes ownership). It applies only to properties sold for over $6 million.
+
+_Measure AA_ is a replacement of the existing Measure B, a parcel tax that was passed in 2017 and will expire in 2025. The text of Measure AA is not the same as Measure B.
+
+_Shoreline Tax_. In addition to the two ballot measures there is an ongoing dispute between the city and the school district over the allocation of tax revenue in the Shoreline Park District.
+
+# Measure G
+
+Measure G would be a
+
+> property transfer tax, imposed on residential/commercial property sales above $6,000,000 only, up to $15.00 per $1,000, generating about $9,500,000 in locally controlled funding annually until ended by voters, with independent audits
+
+In addition, on September 10, the council approved a [resolution] to allocate the funds, should the measure be approved by voters.
+
+| 35%–40% |  Public Safety Facilities |
+| 30%–35% |  Parks and Open Space |
+| 20%–25% |  Affordable Housing |
+| 5%–15% | Other General Government Services (Road maintenance, small business support, homelessness prevention, active transportation, biodiversity, work force development) |
+
+There already exists a [transfer tax](https://www.mountainview.gov/our-city/departments/finance-and-administrative-services/city-tax-information/real-property-transfer-conveyance-tax) of $3.31 per $1,000.
+It was enacted in 1973 and is referred to as a "Conveyance Tax" in the [city code](https://library.municode.com/ca/mountain_view/codes/code_of_ordinances?nodeId=PTIITHCO_CH29TA_ARTVREPRCOTA).
+This revenue does not have any special allocation.
+
+This new transfer tax would create a progressive tax similar to [San Jose Measure E](https://clerkrecorder.sccgov.org/measure-e).
+
+# Measure AA
+
+Measure AA is meant to replace Measure B.
+The existing Measure B text describes
+
+> a tax of $191 per parcel – an increase of $64 for most homeowners – for 8 years, generating $2,800,000 annually, with independent oversight, exemptions for seniors and funds staying local
+
+In Measure AA the tax is
+
+> $0.15/building area square foot capped at $1,750/parcel and $25/unimproved parcel, to be adopted, raising approximately $5,400,000 annually for 8 years, with senior exemptions, citizens' oversight, and funds staying local
+
+Changing from a flat rate to a per-square-foot tax is an attempt to make the tax more progressive.
+Under prop 13 even voter approved taxes cannot be based on the actual value of the property. So charging by the square foot has become a common approximation of value.
+
+The cap is probably so that large property owners don't try to kill the bill.
+
+A home of 1273 square feet would pay the same under the new measure.
+Everyone else will have a different tax bill. Most would see an increase.
+
+There is an oversight committee that meets 3-4 times a year.
+Documents and minutes on how Measure B funds were spent can be found [here](https://www.mvwsd.org/cms/One.aspx?portalId=418858&pageId=540277)
+
+For the 2022-23 school year these were the high-level numbers
+
+| Income | 2,912,565 |
+| Expenses | |
+| 0218 - Academic at Risk | 1,088,354 |
+| 0230 - Physical Education: Grades 1-5 | 123,900 |
+| 0235 - After School Program: Enrichment | 11,858 |
+| 0244 - Art Program | 556,469 |
+| 0245 - Music Program | 687,292 |
+| 0412 - Middle School Counselors | 444,691 |
+
+# Shoreline
+
+This one is messy. I will sum up as best I can.
+
+> The Shoreline Park District is a separate legal entity from the City, funded by property tax increment, with its own budget and financial statements. The Mountain View City Council serves as the Shoreline Park District’s Board of Directors.
+
+The Shoreline Park was created by an act of Congress in 1969.
+Prior to it's creation the area was used for a landfill, and had frequent flooding.
+Shoreline's creation made it exempt from the normal [Prop 13 1% allocation]({{ site.baseurl }}/taxes/2023/09/10/one-percent.html).
+It is still restricted to 1% in property taxes. Just the distribution is not the same. It is all kept within Shoreline.
+
+In 2005 the city and the district signed an agreement to give the school districts part of the property tax. Over 99% of the tax revenue in Shoreline is from non-residential property.
+
+When the North Bayshore plan was approved last year, the city offered a new agreement, where all new residential tax revenue would be split with the school district at the same rate as the rest of the city.
+That is, Mountain View Whisman School District would receive 23.75% of tax revenue from all the new residential construction that was theoretically going to happen under the new plan.
+The city also offered to pay to the school district around 10% of the tax revenue for new non-residential construction, about double what it had been paying before.
+
+The city met with the two school districts (Mountain View Whisman and Mountain View Los Altos High School) last year. The city was able to come to an agreement with the high school district. But not with Whisman.
+
+The Whisman school district has repeatedly made disingenuous statements when arguing for the money they think they are owed. It seems they won't be satisfied with anything less than the full 23.75% for all property.
+On the districts [web site](https://www.mvwsd.org/about/superintendent/shoreline) they repeatedly refer to their "full share" of the revenue.
+But it is not theirs. It was never theirs.
+
+No other entity (Santa Clara County, Foothill-DeAnza College, Midpeninsula Regional Open Space District, El Camino Hospital, etc) has come to the city demanding their share. And they all get no tax revenue at all from Shoreline.
+
+There is also [this presentation I sat through](https://mvwsd.novusagenda.com/AgendaPublic/CoverSheet.aspx?ItemID=4291&MeetingID=219) where they repeatedly refer to not getting 23.75% as a "cost to the district". Office buildings do not generate students. They cost the district nothing. All tax revenue from nonresidential is pure profit for any school district.
+
+Whisman has no actual leverage with the city though. There is no legal obligation for the city to give them anything. So the district has been trying to get the public on their side.
+
+
+# Conclusion
+
+I think Measure G and Measure AA are fine.
+I would have preferred Measure G without the predetermined allocation. It is unnecessary, as there is already plenty of public input on how the city spends it's revenue. But it is fine. Good enough.
+
+If Measure B was good, then Measure AA is also good. Costs of things have gone up a bit, and I like the semi-progressive nature of tying it to floor area. Would have preferred it without the cap.
+
+However, the Shoreline fiasco has made me unhappy with the current leadership of the school district.
+The district has been acting like a child who, after being given a cookie, shouts they want two. And then threatens to throw the first cookie in the garbage unless they get another.

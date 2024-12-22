@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Abe-Koga v Lieber Vote Record Head-To-Head"
+title:  "Abe-Koga & Lieber Head-To-Head Voting Record"
 date:   2024-02-28 11:20:13 -0700
 image:  "assets/images/liebermak.png"
 categories: politics
 ---
 
-# MAK v Lieber
+{::options parse_block_html="true" /}
+# Abe-Koga & Lieber
 
 Margaret Abe-Koga and Sally Lieber are both running for the Santa Clara County Board of Supervisors District 5.
 
@@ -22,7 +23,7 @@ Many jurisdictions use legistar, but the api is poorly documented.
 
 # The Votes
 
-Excluding absences, Abe-Koga and Lieber differed in votes a total of 29 times in two years.
+Excluding being absent or [recused](https://www.merriam-webster.com/dictionary/recuse), Abe-Koga and Lieber differed in votes a total of 29 times in two years.
 
 I have presented the data below exactly as it was retrieved from the api.
 Some context is lost, however, so curious readers are encouraged to click "details" to find a page with full minutes and video recordings. 
@@ -36,7 +37,7 @@ Only those votes where Abe-Koga and Lieber voted differently are documented here
 
 ### Support for the Principles of the Mayors for a Guaranteed Income Initiative and Support Basic Income, a Cash-Based Pilot Program
 
-{:refdef: .fulltext}
+<div class="fulltext">
 This item was pulled from the Consent Calendar for individual consideration by Councilmember Matichak.
 
 The Council directed questions to staff.
@@ -62,7 +63,7 @@ The following member of the public spoke:
 Alexander Brown indicated support for the item.
 
 The substitute motion failed by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Yes |
 | Margaret Abe-Koga | No |
@@ -74,7 +75,7 @@ The substitute motion failed by the following roll call vote:
 
 ### Charities Housing Notice of Funding Availability Proposal-1265 Montecito Avenue
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Project Manager—Affordable Housing Vera Gil and Senior Planner Edgar Maravilla presented the report. Sara Erickson from Charities Housing and Kevin Bussett from Studio E Architects made a presentation. Assistant Community Development Director Wayne Chen and Assistant City Manager/Community Development Director Aarti Shrivastava were available for questions.
 
 The Council directed questions to Sara Erickson, County of Santa Clara Office of Supportive Housing Director Consuelo Hernandez, City staff and Kevin Bussett.
@@ -113,7 +114,7 @@ SUBSTITUTE MOTION - M/S - Ramirez/Lieber - To:
 The Council directed questions to staff.
 
 The substitute motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Yes |
 | Margaret Abe-Koga | No |
@@ -125,7 +126,7 @@ The substitute motion carried by the following roll call vote:
 
 ### Rowhouse Development at 570 South Rengstorff Avenue
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Vice Mayor Ramirez, Councilmember Matichak, Councilmember Showalter, Councilmember Abe-Koga and Mayor Kamei disclosed each met with the applicant.
 
 Assistant City Manager/Community Development Director Aarti Shrivastava presented the report. Applicants Kevin DeNardi and Albert Wang from DeNardi Wang Homes also presented. 
@@ -153,7 +154,7 @@ MOTION - M/S - Abe-Koga/Matichak - To:
 The Council directed questions to City staff, Kevin DeNardi and Matthew Francois, Rutan & Tucker, LLP.
 
 The motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | No |
 | Margaret Abe-Koga | Yes |
@@ -165,7 +166,7 @@ The motion carried by the following roll call vote:
 
 ### Approval of Council Advisory Body Work Plans
 
-{:refdef: .fulltext}
+<div class="fulltext">
 This item was pulled from the Consent Calendar for individual consideration by Councilmember Matichak.
 
 Assistant City Manager/Chief Operating Officer Audrey Seymour Ramberg was available for questions.
@@ -199,7 +200,7 @@ The seconder of the motion accepted the amendment.
 There was no additional public comment.
 
 The amended motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | No |
 | Margaret Abe-Koga | Yes |
@@ -211,7 +212,7 @@ The amended motion carried by the following roll call vote:
 
 ### Public Safety Building, Design, Project 20-49-Various Actions
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Senior Project Manager David Printy presented the report. 
 
 Finance and Administrative Services Director Jesse Takahashi, Police Chief Chris Hsiung, Fire Chief Juan Diaz and Public Works Director Dawn Cameron were available for questions.
@@ -236,7 +237,7 @@ MOTION - M/S - Matichak/Abe-Koga - To:
 The Council discussed the motion.
 
 The motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | No |
 | Margaret Abe-Koga | Yes |
@@ -248,7 +249,7 @@ The motion carried by the following roll call vote:
 
 ### Shoreline Boulevard Interim Bus Lane and Utility Improvements, Design, Project 16-58, and Phase I Construction, Project 18-43-Various Actions
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Assistant Public Works Director/City Engineer Ed Arango presented the report. Public Works Director Dawn Cameron was available for questions.
 
 The Council directed questions to staff.
@@ -292,7 +293,7 @@ Councilmember Showalter moved to amend the motion to direct staff to defer left-
 The maker and the seconder accepted the amendment.
 
 The amended substitute motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | No |
 | Margaret Abe-Koga | Yes |
@@ -304,7 +305,7 @@ The amended substitute motion carried by the following roll call vote:
 
 ### Extension of the Castro Street Closure, Extension of the Fee Waiver and Suspension of the Renewal Requirements for Sidewalk Café Licenses, and Amendment of Professional Services Agreement, Project 20-58
 
-{:refdef: .fulltext}
+<div class="fulltext">
 1. Adopt Resolution No. 18630 of the City Council of the City of Mountain View Amending Resolution No. 18470, as Amended By Resolution Nos. 18489, 18496, 18547, and 18576, Temporarily Suspending and Designating Parking Restrictions and Prohibitions Pursuant to Mountain View City Code Chapter 19 and Temporarily Closing the 100, 200, 300, and 400 Blocks of Castro Street Pursuant to California Vehicle Code Section 21101 to Facilitate Outdoor Dining and Outdoor Business Operations.
 
 2. Adopt Resolution No. 18631of the City Council of the City of Mountain View Amending Resolution No. 18546, as Amended by Resolution No. 18577, Temporarily Suspending Certain Requirements for Sidewalk Café License Renewals Pursuant to Mountain View City Code Section 36.42 and Waiving Sidewalk Café License Renewal Fee Payments, May 1, 2020 through April 30, 2023, to Facilitate a Consistent Outdoor Dining Program in the Downtown Area.
@@ -312,7 +313,7 @@ The amended substitute motion carried by the following roll call vote:
 3. Transfer and appropriate $363,000 from the Construction/Conveyance Tax Fund to Castro Pedestrian Mall Feasibility Study, Project 20-58, increasing the project budget from $265,000 to $628,000. (Five votes required)
 
 4. Authorize the City Manager or designee to amend the professional services agreement with Gehl Studio, Inc., for Castro Pedestrian Mall Feasibility Study, Project 20-58, increasing compensation by $298,000 for a not-to-exceed amount of $523,000.
-{: refdef}
+</div>
 
 | Sally Lieber | Abstain |
 | Margaret Abe-Koga | Yes |
@@ -324,7 +325,7 @@ The amended substitute motion carried by the following roll call vote:
 
 ### Residential Development Project at 555 West Middlefield Road
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Mayor Ramirez disclosed he met with the applicant and visited the site with residents. Councilmember Showalter disclosed she met with the applicant and residents. Councilmember Abe-Koga disclosed she met with the applicant and residents and visited the site. Vice Mayor Hicks disclosed she met with the applicant and residents and visited the site. Councilmember Kamei disclosed she met with the applicant and residents. Councilmember Matichak disclosed she met with the applicant and residents and visited the site. Councilmember Lieber disclosed she met with the applicant and residents and visited the site.
 
 Project Planner Diana Pancholi presented the item. She indicated a modification to recommendation three listed in the Council report to add a condition of approval acknowledging four additional voluntary offers proposed by the applicant related to construction of the project. Assistant City Manager/Community Development Director Aarti Shrivastava and the City's Consultant John Schwarz were available for questions.
@@ -448,7 +449,7 @@ Councilmember Lieber moved to amend the substitute motion to read:
 The substitute motion maker did not accept the amendment.
 
 The amended substitute motion failed by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Abstain |
 | Margaret Abe-Koga | No |
@@ -456,7 +457,7 @@ The amended substitute motion failed by the following roll call vote:
 
 ### The Council returned to the main motion.
 
-{:refdef: .fulltext}
+<div class="fulltext">
 
 The Council returned to the main motion.
 
@@ -469,7 +470,7 @@ The maker of the main motion did not accept the amendment.
 In response to Project Planner Diana Pancholi, Councilmember Abe-Koga agreed the main motion would be to continue the item to a date uncertain and direct staff to explore the potential reduction in the project parking requirement, with the option to reduce unit counts if needed, to save more heritage trees, bring back a revised multi-modal transportation analysis, and explore whether it is feasible to require window upgrades in existing units before new construction begins.
 
 The main motion failed by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | No |
 | Margaret Abe-Koga | Yes |
@@ -477,7 +478,7 @@ The main motion failed by the following roll call vote:
 
 ### MOTION - M/S - Showalter/Lieber - To:
 
-{:refdef: .fulltext}
+<div class="fulltext">
 
 MOTION - M/S - Showalter/Lieber - To:
 
@@ -486,7 +487,7 @@ MOTION - M/S - Showalter/Lieber - To:
 2. Direct staff to explore the potential reduction in the project parking requirement to save more heritage trees and bring back a revised multi-modal transportation analysis.
 
 The motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Yes |
 | Margaret Abe-Koga | No |
@@ -498,10 +499,10 @@ The motion carried by the following roll call vote:
 
 ### MOTION - M/S - Ramirez/Showalter - At 11:25 p.m., to continue the meeting beyond 10:00 p.m.
 
-{:refdef: .fulltext}
+<div class="fulltext">
 
 MOTION - M/S - Ramirez/Showalter - At 11:25 p.m., to continue the meeting beyond 10:00 p.m.
-{: refdef}
+</div>
 
 | Sally Lieber | Yes |
 | Margaret Abe-Koga | No |
@@ -513,7 +514,7 @@ MOTION - M/S - Ramirez/Showalter - At 11:25 p.m., to continue the meeting beyond
 
 ### Plant-Based Eating Resolution and Program
 
-{:refdef: .fulltext}
+<div class="fulltext">
 This item was pulled from the Consent Calendar by Mayor Ramirez for individual consideration.
 
 The Council directed questions to staff.
@@ -534,7 +535,7 @@ MOTION - M/S - Matichak/Abe-Koga - To:
 Adopt Resolution No. 18662 of the City Council of the City of Mountain View Supporting a Plant-Based Eating Program.
 
 The motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Abstain |
 | Margaret Abe-Koga | Yes |
@@ -542,7 +543,7 @@ The motion carried by the following roll call vote:
 
 ### Residential Development at 555 West Middlefield Road
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Councilmember Showalter disclosed she met with the developer and visited the site. Councilmember Matichak disclosed she met with the applicant. Councilmember Lieber disclosed she visited the site and met with the applicant, neighbors and other community members. Vice Mayor Hicks disclosed she met with the applicant and neighbors and visited the site. Councilmember Abe-Koga disclosed she met with the applicant, visited site and met with neighbors. Mayor Ramirez dislcosed he met with the applicant.
 
 Senior Planner Diana Pancholi presented the item. Joe Kirchofer, Vice President of Development for AvalonBay, also made a presentation. Assistant City Manager/Community Development Director Shrivastava and Public Works Director Cameron were available for questions.
@@ -602,7 +603,7 @@ MOTION - M/S - Lieber/Showalter - To:
 4. Adopt Resolution No. 18666 of the City Council of the City of Mountain View Approving a Vesting Tentative Map to Create Three Lots with Up to 111 Condominium Units at 555 West Middlefield Road.
 
 The motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Yes |
 | Margaret Abe-Koga | No |
@@ -614,7 +615,7 @@ The motion carried by the following roll call vote:
 
 ### Shoreline Boulevard Interim Bus Lane and Utility Improvements, Projects 16-58 and 18-43-Various Actions
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Mayor Ramirez pulled this item from the Consent Calendar for individual consideration.
 
 Public Works Director Dawn Cameron was available for questions.
@@ -653,7 +654,7 @@ MOTION - M/S - Abe-Koga/Matichak - To:
 4. Authorize the City Manager or designee to amend the professional services agreement with Mark Thomas & Company, Inc., in the amount of $577,331 to provide additional design services in a not-to-exceed amount of $2,821,000.
 
 The motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | No |
 | Margaret Abe-Koga | Yes |
@@ -665,7 +666,7 @@ The motion carried by the following roll call vote:
 
 ### Mobile Home Rent Stabilization Ordinance-Amendment Related to Accord or Memorandum of Understanding Exemption
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Assistant Community Development Director Wayne Chen presented the item. 
 
 Senior Assistant City Attorney Sandra Lee, Assistant City Manager/Community Development Director Aarti Shrivastava and Karen Tiedemann from Goldfarb and Lipman were present for questions.
@@ -708,7 +709,7 @@ In response to Councilmembers Abe-Koga and Kamei, the motion maker amended the s
 POINT OF ORDER - M/S - Lieber/Hicks - To call for the question (end debate - 2/3 majority vote required).
 
 The motion to end debate failed by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Yes |
 | Margaret Abe-Koga | No |
@@ -716,10 +717,10 @@ The motion to end debate failed by the following roll call vote:
 
 ### The amended substitute motion failed by the following roll call vote:
 
-{:refdef: .fulltext}
+<div class="fulltext">
 
 The amended substitute motion failed by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | No |
 | Margaret Abe-Koga | Yes |
@@ -727,12 +728,12 @@ The amended substitute motion failed by the following roll call vote:
 
 ### In response to Councilmember Kamei, Councilmember Lieber indicated support for more robust outreach to mobile home residents.
 
-{:refdef: .fulltext}
+<div class="fulltext">
 
 In response to Councilmember Kamei, Councilmember Lieber indicated support for more robust outreach to mobile home residents.
 
 The main motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Yes |
 | Margaret Abe-Koga | No |
@@ -744,9 +745,9 @@ The main motion carried by the following roll call vote:
 
 ### Mobile Home Rent Stabilization Ordinance-Amendment Related to Accord or Memorandum of Understanding Exemption (Second Reading)
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Adopt Ordinance No. 11.22 of the City of Mountain View Amending the Mobile Home Rent Stabilization Ordinance (Chapter 46 of the Mountain View City Code) to Remove the Exemption for Mobile Home Spaces and Mobile Homes in a Mobile Home Park that Are Subject to an Approved Accord. (First reading: 5-2; Abe-Koga and Matichak no)
-{: refdef}
+</div>
 
 | Sally Lieber | Yes |
 | Margaret Abe-Koga | No |
@@ -758,10 +759,10 @@ Adopt Ordinance No. 11.22 of the City of Mountain View Amending the Mobile Home 
 
 ### Appropriation of State Community Development Block Grant Homekey Funding for the LifeMoves Mountain View Project
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Appropriation of State Community Development Block Grant Homekey Funding for the LifeMoves Mountain View Project
 Appropriate $5 million in State Community Development Block Grant Funding for the LifeMoves Mountain View Project, contingent upon execution of the funding agreement between the City and the California Department of Housing and Community Development.
-{: refdef}
+</div>
 
 | Sally Lieber | Abstain |
 | Margaret Abe-Koga | Yes |
@@ -773,7 +774,7 @@ Appropriate $5 million in State Community Development Block Grant Funding for th
 
 ### Castro Street Pedestrian Mall-Various Actions
 
-{:refdef: .fulltext}
+<div class="fulltext">
 Transportation Planner Aruna Bodduna presented the item.
 
 The following members of the public spoke: 
@@ -792,7 +793,7 @@ MOTION - M/S - Abe-Koga/Showalter - To:
 Adopt Resolution No. 18717 of the City Council of the City of Mountain View Adopting a Negative Declaration for the Castro Street Pedestrian Mall Study in Accordance with the California Environmental Quality Act.
 
 The motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Abstain |
 | Margaret Abe-Koga | Yes |
@@ -800,14 +801,14 @@ The motion carried by the following roll call vote:
 
 ### MOTION - M/S - Abe-Koga/Hicks - To:
 
-{:refdef: .fulltext}
+<div class="fulltext">
 
 MOTION - M/S - Abe-Koga/Hicks - To:
 
 Adopt Resolution No. 18718 of the City Council of the City of Mountain View, Pursuant to California Streets and Highways Code Section 11311, Determining that Pedestrian Malls on Castro Street Between the East Leg of West Evelyn Avenue and Villa Street, Villa Street and West Dana Street, and West Dana Street and California Street Shall Be Established.
 
 The motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Abstain |
 | Margaret Abe-Koga | Yes |
@@ -815,20 +816,20 @@ The motion carried by the following roll call vote:
 
 ### MOTION - M/S - Abe-Koga/Showalter - To:
 
-{:refdef: .fulltext}
+<div class="fulltext">
 
 MOTION - M/S - Abe-Koga/Showalter - To:
 
 Introduce an Ordinance of the City of Mountain View Amending Chapter 27 of the Mountain View City Code to Add Article VI Establishing Pedestrian Malls on Castro Street Between the East Leg of West Evelyn Avenue and Villa Street, Villa Street and West Dana Street, and West Dana Street and California Street in the City of Mountain View, and set a second reading for October 25, 2022.
 
 The motion carried by the following roll call vote:
-{: refdef}
+</div>
 
 | Sally Lieber | Abstain |
 | Margaret Abe-Koga | Yes |
 | result | Pass |
 
-#  <a name="Code">The Code</a>
+#  <a name="Code"></a>The Code
 
 Mountain View uses legistar to store and manage public meeting information.
 Legistar has an API, though [the documentation](https://webapi.legistar.com/Help) is sparse.

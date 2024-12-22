@@ -8,7 +8,7 @@ categories: taxes
 
 ## Effective Tax Rates Are Over 1%
 
-We already [talked about](taxes/2023/09/10/one-percent.html) the 1% tax rate set by prov 13 in California.
+We already [talked about]({{ site.baseurl }}taxes/2023/09/10/one-percent.html) the 1% tax rate set by prov 13 in California.
 But in Santa Clara County the effective tax rate is greater.
 
 {% include image.html
@@ -41,18 +41,18 @@ One reason for this is that, unlike other taxes, general obligation bonds for sc
 These bonds must be used for infrastructure projects, they cannot be used for operating expenses such as teacher salaries.
 
 The are variable rate, which means the amount can fluctuate year-to-year. And once they are paid off they go away.
-Voter approved debt is an inconsistent and inperminant 
+Voter approved debt is an inconsistent and inperminant
 
 But why does the effective tax percent vary within a tax rate area? That is because of parcel taxes.
 
 ## Parcel Taxes
 
-Parcel taxes do need a 2/3 majority vote to pass. Even so, many do manage to pass. 
+Parcel taxes do need a 2/3 majority vote to pass. Even so, many do manage to pass.
 They are not tied to the value of the property.
 Most are flat rate. Meaning every parcel is asses the same dollar amount, regardless if it is a single condo or a giant corporate headquarters.
 
-But a parcel tax [does not need to be flat rate](https://www.mv-voice.com/news/2023/10/22/guest-opinion-mountain-view-whismans-parcel-tax-doesnt-have-to-be-a-flat-rate). 
-The "Safe, Clean Water" parcel tax is based on the parcel's [Impermeable Area](https://safecleanwaterla.org/resources/tools/). 
+But a parcel tax [does not need to be flat rate](https://www.mv-voice.com/news/2023/10/22/guest-opinion-mountain-view-whismans-parcel-tax-doesnt-have-to-be-a-flat-rate).
+The "Safe, Clean Water" parcel tax is based on the parcel's [Impermeable Area](https://safecleanwaterla.org/resources/tools/).
 
 An interesting new twist on parcel taxes is the 2021 [court ruling](https://edsource.org/2022/california-court-decision-ups-the-odds-for-passing-school-parcel-taxes/682086) on SF proposition G. The court ruled that if a tax is voter-initiated (from collection signatures) then it is not based on the "government's authority to tax" and so the 2/3 limit from prop 13 does not apply.
 

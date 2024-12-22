@@ -1,0 +1,23 @@
+.inputs {
+  display: flex;
+  align-content: stretch;
+}
+.slider {
+  flex-basis: 0;
+  flex-grow: 1;
+  display: flex;
+  flex-wrap: wrap;
+}
+.slider input {
+  width: 90%;
+}
+.slider .label {
+  align-self: center;
+}
+.unitDisplay {
+  display: flex;
+}
+.slider > div {
+  margin: 0.1rem;
+  min-width: 40%;
+}

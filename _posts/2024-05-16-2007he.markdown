@@ -1,0 +1,110 @@
+---
+layout: post
+title:  "Predicting Housing - Mountain View's 2007 Housing Element"
+date:   2024-05-16 11:20:13 -0700
+image:  "assets/he07/bmi.png"
+categories: housing
+---
+
+# Background
+
+### Housing Element
+In 2010 city presented their "housing element".
+This document contains the city's 8-year housing plan.
+The housing element covered the years 2007-2014.
+To prepare the housing element the city contracted the firm BAE.
+
+### RHNA
+The state of California creates a needs assessment for each city and county.
+The state had assigned Mountain View the task of ensuring at least 2,599 homes would be built from 2007-2014.
+When the housing element came before council 892 homes had already been approved.
+So the city only needed to plan to get 1,231 more units built.
+
+The housing is additionally divided into income buckets, with very low, low, moderate, and above moderate income divisions.
+
+# Predicting Growth
+
+In table 3.9 there are population and employment predictions.
+
+The housing element predicted the population in Mountain View would grow from 73,900 in 2010 to 81,000 in 2020.
+A growth of 7,100.
+The 2020 census put our population at 82,376.
+The prediction was off by 1,376. I call that pretty close.
+
+The housing element predicted the number of jobs in Mountain View would grow from 52,610 in 2010 to 60,690 in 2020.
+A growth of 8,080.
+LODES data from 2020 shows 94,529 people worked within the borders of Mountain View.
+A growth of 41,919. Five times what was predicted.
+
+This is one reason why the jobs-housing imbalance - already a problem in 2010 - has gotten [so much worse]({% post_url 2024-02-06-imbalance %})
+
+
+# Predicting Capacity
+
+### Site Inventory
+
+To show that the housing would be built, BAE and city staff identified 32 sites where housing could be built, and estimated a "realistic capacity" for each site.
+The total "realistic capacity" for all sites was 2,154 homes.
+This capacity was much more than the remaining state-assigned total of 1,231 homes.
+So staff concluded that Mountain View could meet it's obligations, and no rezoning would be necessary.
+
+### What Was Built
+
+Today, in 2024, 12 of the 30 sites staff identified have no housing built.[^1]
+Of those with housing, only 10 of the projects were approved before the end of 2014.
+And only 8 of those 10 were approved under the existing zoning.
+Those 8 projects, approved under the existing zoning and before the end of 2014, created 567 new homes.
+About a quarter of the predicted total.[^2]
+
+Below is the site inventory maps from the housing element.
+Sites which had a housing project approved before the end of 2014 are in green.
+Sites which have had housing built on them since that time are in yellow.
+Sites which still have no housing are in red.
+
+{% include image.html
+  url="he07/bmi.png"
+  alt="map of below moderate income housing sites from the 2007 housing element"
+  caption="Three of the sites near downtown are city-owned parking lots. There are now plans to build a 100% affordable development on site #11."
+%}
+{% include image.html
+  url="he07/mod.png"
+  alt="map of moderate income housing sites from the 2007 housing element"
+  caption="Sites 2 and 8 are the same as in the below moderate map. Perhaps staff is saying those sites are large enough to have both below moderate and moderate income developments?"
+%}
+{% include image.html
+  url="he07/ami.png"
+  alt="map of above moderate income housing sites from the 2007 housing element"
+  caption="Site 5 had the lowest ratio of built to expected capacity, with only 198 homes built vs staff prediction of 717"
+%}
+
+The total of all housing projects that have been approved on those sites, as of May 2024, is 1,412 homes.
+About 2/3 of the predicted realistic capacity.
+
+## How Good Were the Predictions
+
+For the most part the predicted capacity was correct.
+Some had fewer homes, some had more.
+The total predicted capacity for all sites on which new housing has been built was 1,508 homes.
+1,412 homes were built. That is a pretty good prediction of capacity.
+
+The real shortfall is mostly due to the timelines.
+Many factors need to align in order for new housing to be built, and even a site in a prime location may not see development for decades.[^3]
+Even with the enormous housing pressure in the bay area, it seems we should have a site inventory at least 3x our target.
+
+One solution would be "[broad upzoning](https://www.lewis.ucla.edu/research/building-up-the-zoning-buffer-using-broad-upzones-to-increase-housing-capacity-without-increasing-land-values/)"
+
+---
+### Footnotes
+
+[^1]: At least 3 of the sites currently have some kind of housing plan "in the pipeline".
+      But I don't think any have started construction yet.
+
+[^2]: We are only counting net housing here. Since most sites had very little housing before this does not make much difference to the total.
+      One exception is [277 Fairchild](http://mountainview.legistar.com/gateway.aspx?M=F&ID=86fcbb1c-6fcc-4270-bd7a-bcc28bdcda60.pdf).
+      The site had "1-story 25-room motel, a small convenience store, and two 1-story single-family homes".
+      According to the staff report "some of the motel rooms are occupied by long-term residents". We do not know how many.
+      But as only 26 new units were built, it is possible this project did not result in any meaningful new housing.
+      All of the new units are market-rate.
+
+[^3]: Some sites from the 2007 housing element are again in the city's [2023 housing element](https://www.mountainview.gov/our-city/departments/community-development/planning/regulations/housing-element)
+      These include 918 Rich Ave, 615-749 El Camino Real, and 1720 Villa St. This time though there are already approved projects at these sites, and Villa St. is already built.
