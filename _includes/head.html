@@ -1,7 +1,7 @@
 <head>
   <!-- OKOKOKOKOK -->
   {% if page.extrajs %}
-  <script async="" src="{{ "/assets/js/" | append: page.extrajs | relative_url}}"></script>
+  <script async="" src="{{ "/assets/" | append: page.extrajs | relative_url}}"></script>
   {% endif %}
   <script async="" src="{{ "/assets/js/subscribe.js" | relative_url}}"></script>
   <meta charset="utf-8">
@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/css/global.css" | relative_url }}">
   {% if page.extrastyle %}
-  <link rel="stylesheet" href="{{ "/assets/css/" | append: page.extrastyle | relative_url}}"></script>
+  <link rel="stylesheet" href="{{ "/assets/" | append: page.extrastyle | relative_url}}"></script>
   {% endif %}
   {%- feed_meta -%}
 </head>
